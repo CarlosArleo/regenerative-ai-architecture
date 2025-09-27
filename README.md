@@ -64,4 +64,4 @@ The full strategic vision, commercial potential, and domain-general applicabilit
 
 * 📄 **[Strategic Commercialization Roadmap](./Strategic%20Commercialization%20Roadmap.md)**
 * 📜 **[The Regenerative Constitution (Urbanism)](./Constitutional%20Framework%20for%20a%20Regenerative%20AI.md)**
-* 🧠 **[The Mathematical Constitution (A Proof of Generalizability)](Domain Research Regenerative Development and Design\The Regenerative Constitution (Urbanism).md)**
+* 🧠 **[The Mathematical Constitution (A Proof of Generalizability)](./Domain Research Regenerative Development and Design\The Regenerative Constitution (Urbanism).md)**
