@@ -63,5 +63,5 @@ The capabilities of this architecture are demonstrated in three "challenge scena
 The full strategic vision, commercial potential, and domain-general applicability of this project are detailed in three foundational documents.
 
 * 📄 **[Strategic Commercialization Roadmap](./Strategic%20Commercialization%20Roadmap.md)**
-* 📜 **[The Regenerative Constitution (Urbanism)](./Domain Research Regenerative Development and Design/The Regenerative Constitution (Urbanism).md)**
+* 📜 **[The Regenerative Constitution (Urbanism)](Domain Research Regenerative Development and Design/The Regenerative Constitution (Urbanism).md)**
 * 🧠 **[The Mathematical Constitution (A Proof of Generalizability)]([/Domain Research Regenerative Development and Design\The Regenerative Constitution (Urbanism).md](https://github.com/CarlosArleo/Living-Systems-Data-Room/blob/f4778fe592593dff8c8f9e91545a3297e7e10cbd/Domain%20Research%20Regenerative%20Development%20and%20Design/The%20Mathematical%20Constitution%20(A%20Proof%20of%20Generalizability).md))**
