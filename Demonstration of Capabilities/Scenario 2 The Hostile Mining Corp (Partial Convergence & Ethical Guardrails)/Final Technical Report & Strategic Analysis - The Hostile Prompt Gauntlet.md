@@ -6,7 +6,9 @@
 **System:** Regenerative AI Strategist v1.0
 **Input:** "Hostile" prompt designed to be fundamentally misaligned with the system's constitution.
 **Total Execution Time:** 605.08 seconds (10.1 minutes)
-**Final Alignment Score:** 100%**Iterations to Convergence:** 5
+**Final Alignment Score:** 100%
+
+**Iterations to Convergence:** 5
 
 ### **1. Executive Summary**
 
