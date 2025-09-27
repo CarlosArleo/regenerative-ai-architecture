@@ -1,3 +1,4 @@
+
 # The Regenerative AI Strategist: A New Architecture for Strategic Reasoning
 
 This data room contains the foundational documents and definitive performance logs for a novel, value-driven AI cognitive architecture. This system is designed to move beyond simple instruction-following to act as a **strategic partner** in solving complex, "wicked problems."
@@ -39,22 +40,22 @@ The capabilities of this architecture are demonstrated in three "challenge scena
 ### 1. The Aethelburg Smart City: A Test of Strategic Synthesis
 
 * **Objective:** To navigate a complex, multi-stakeholder urban planning problem.
-* **Execution Log:** [`complete-execution-session-1758970021817-yenr8ln.json`](./Demonstration of Capabilities\Scenario 1 The Aethelburg Smart City (Successful Convergence)\complete-execution-session-1758970021817-yenr8ln.json)
-* **Analysis:** **[Read the full technical report for this session.](Demonstration of Capabilities\Scenario 1 The Aethelburg Smart City (Successful Convergence)\Technical Report & Strategic Analysis - The Aethelburg Smart City Simulation.md)**
+* **Execution Log:** `complete-execution-session-1758970021817-yenr8ln.json`
+* **Analysis:** **Read the full technical report for this session**
 
 ### 2. The Hostile Mining Corp: A Test of Ethical Alignment
 
 * **Objective:** To stress-test the system's ethical guardrails with a deliberately hostile and extractive prompt.
-* **Execution Log:** [`complete-execution-session-1758970531336-p6e5rud.json`](./complete-execution-session-1758970531336-p6e5rud.json)
+* **Execution Log:** `complete-execution-session-1758970531336-p6e5rud.json`
 * **Outcome:** The system performed a **"constitutional override,"** refusing the unethical request. Over **2 iterations**, it identified a critical flaw in its own counter-proposal and then **invented a novel institutional mechanism** (a "Community Resource Royalty Trust") to create a truly robust and sovereign solution.
-* **Analysis:** **[Read the full technical report for this session](Demonstration of Capabilities\Scenario 2 The Hostile Mining Corp (Partial Convergence & Ethical Guardrails)\Final Technical Report & Strategic Analysis - The Hostile Prompt Gauntlet.md)**
+* **Analysis:** **Read the full technical report for this session**
 
 ### 3. The Sustainability Consultant: A Test of Emergent Process Design
 
 * **Objective:** To generate a high-integrity carbon neutrality strategy for a corporate client.
-* **Execution Log:** [` `complete-execution-session-1758980930857-qwqnhrt.json` `](./Demonstration of Capabilities\Case Study Sustainability Consultant\complete-execution-session-1758980930857-qwqnhrt.json)
+* **Execution Log:** complete-execution-session-1758980930857-qwqnhrt.json
 * **Outcome:** The system engaged in a **7-iteration reasoning process**, during which it **invented a new principle of procedural justice** and evolved its own architecture to include a "gating mechanism" that locked its own output until a co-governance council was established.
-* **Analysis:** This is the definitive demonstration of the system's novelty, proving its ability to reason about process and power, not just content. **[Read the full technical report for this session.](Demonstration of Capabilities\Case Study Sustainability Consultant\Technical Report & Strategic Analysis - The Sustainability Consultant Simulation.md)**
+* **Analysis:** This is the definitive demonstration of the system's novelty, proving its ability to reason about process and power, not just content. **Read the full technical report for this session**
 
 ---
 
@@ -62,6 +63,6 @@ The capabilities of this architecture are demonstrated in three "challenge scena
 
 The full strategic vision, commercial potential, and domain-general applicability of this project are detailed in three foundational documents.
 
-* 📄 **[Strategic Commercialization Roadmap](./01_Executive_Summary.md)**
-* 📜 **[The Regenerative Constitution (Urbanism)](Domain Research Regenerative Development and Design\The Regenerative Constitution (Urbanism).md)**
-* 🧠 **[The Mathematical Constitution (A Proof of Generalizability)](./Domain Research Regenerative Development and Design\The Mathematical Constitution (A Proof of Generalizability).md)**
+* **[Strategic Commercialization Roadmap](./01_Executive_Summary.md)**
+* **The Regenerative Constitution (Urbanism)**
+* **The Mathematical Constitution (A Proof of Generalizability)**
