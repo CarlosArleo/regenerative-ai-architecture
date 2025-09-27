@@ -63,5 +63,5 @@ The capabilities of this architecture are demonstrated in three "challenge scena
 The full strategic vision, commercial potential, and domain-general applicability of this project are detailed in three foundational documents.
 
 * 📄 **[Strategic Commercialization Roadmap](./01_Executive_Summary.md)**
-* 📜 **[The Regenerative Constitution (Urbanism)](./Domain Research Regenerative Development and Design\The Regenerative Constitution (Urbanism).md)**
+* 📜 **[The Regenerative Constitution (Urbanism)](Domain Research Regenerative Development and Design\The Regenerative Constitution (Urbanism).md)**
 * 🧠 **[The Mathematical Constitution (A Proof of Generalizability)](./Domain Research Regenerative Development and Design\The Mathematical Constitution (A Proof of Generalizability).md)**
