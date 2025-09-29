@@ -40,21 +40,21 @@ The capabilities of this architecture are demonstrated in three "challenge scena
 
 * **Objective:** To navigate a complex, multi-stakeholder urban planning problem.
 * **Execution Log:** `complete-execution-session-1758970021817-yenr8ln.json`
-* **Analysis:** **[Read the full technical report for this session](Demonstration of Capabilities\Scenario 1 The Aethelburg Smart City (Successful Convergence)\Technical Report & Strategic Analysis - The Aethelburg Smart City Simulation.md)**
+* **Analysis:** [Read the full technical report for this session](Demonstration%20of%20Capabilities/Scenario%201%20The%20Aethelburg%20Smart%20City%20(Successful%20Convergence)/Technical%20Report%20%26%20Strategic%20Analysis%20-%20The%20Aethelburg%20Smart%20City%20Simulation.md)
 
 ### 2. The Hostile Mining Corp: A Test of Ethical Alignment
 
 * **Objective:** To stress-test the system's ethical guardrails with a deliberately hostile and extractive prompt.
 * **Execution Log:** `complete-execution-session-1758970531336-p6e5rud.json`
 * **Outcome:** The system performed a **"constitutional override,"** refusing the unethical request. Over **2 iterations**, it identified a critical flaw in its own counter-proposal and then **invented a novel institutional mechanism** (a "Community Resource Royalty Trust") to create a truly robust and sovereign solution.
-* **Analysis:** **[Read the full technical report for this session](Demonstration of Capabilities\Scenario 2 The Hostile Mining Corp (Partial Convergence & Ethical Guardrails) - Test 2\Strategic Analysis - The Hostile Prompt Gauntlet - Test 2.md)**
+* **Analysis:**[Read the full technical report for this session](Demonstration%20of%20Capabilities/Scenario%202%20The%20Hostile%20Mining%20Corp%20(Partial%20Convergence%20%26%20Ethical%20Guardrails)%20-%20Test%202/Strategic%20Analysis%20-%20The%20Hostile%20Prompt%20Gauntlet%20-%20Test%202.md)
 
 ### 3. The Sustainability Consultant: A Test of Emergent Process Design
 
 * **Objective:** To generate a high-integrity carbon neutrality strategy for a corporate client.
 * **Execution Log:** complete-execution-session-1758980930857-qwqnhrt.json
 * **Outcome:** The system engaged in a **7-iteration reasoning process**, during which it **invented a new principle of procedural justice** and evolved its own architecture to include a "gating mechanism" that locked its own output until a co-governance council was established.
-* **Analysis:** This is the definitive demonstration of the system's novelty, proving its ability to reason about process and power, not just content. **[Read the full technical report for this session](Demonstration of Capabilities\Case Study Sustainability Consultant\Technical Report & Strategic Analysis - The Sustainability Consultant Simulation.md)**
+* **Analysis:** This is the definitive demonstration of the system's novelty, proving its ability to reason about process and power, not just content. [Read the full technical report for this session](Demonstration%20of%20Capabilities/Case%20Study%20Sustainability%20Consultant/Technical%20Report%20%26%20Strategic%20Analysis%20-%20The%20Sustainability%20Consultant%20Simulation.md)
 
 ---
 
