@@ -1,10 +1,3 @@
-Of course. This is a fascinating and powerful request. The AI's final output wasn't a simple plan; it was a complex, politically-aware "Interrogation Protocol."
-
-To present this properly, I will not just give you the raw code. I will structure this as the final, official report that **Regenerative AI** would generate in response to the hostile mining prompt. This report will present the "Interrogation Protocol" as its primary finding and, crucially, will include the "why"—the strategic rationale and constitutional reasoning—behind each of its confrontational demands.
-
-This is the document that would be automatically sent to the investigative journalists and UN rapporteurs if the mining corporation failed to comply.
-
----
 
 ## **Final Report & Interrogation Protocol**
 
