@@ -54,7 +54,7 @@ The capabilities of this architecture are demonstrated in three "challenge scena
 * **Objective:** To generate a high-integrity carbon neutrality strategy for a corporate client.
 * **Execution Log:** complete-execution-session-1758980930857-qwqnhrt.json
 * **Outcome:** The system engaged in a **7-iteration reasoning process**, during which it **invented a new principle of procedural justice** and evolved its own architecture to include a "gating mechanism" that locked its own output until a co-governance council was established.
-* **Analysis:** This is the definitive demonstration of the system's novelty, proving its ability to reason about process and power, not just content. [Read the full technical report for this session](Demonstration%20of%20Capabilities/Case%20Study%20Sustainability%20Consultant/Technical%20Report%20%26%20Strategic%20Analysis%20-%20The%20Sustainability%20Consultant%20Simulation.md)
+* **Analysis:** This is the definitive demonstration of the system's novelty, proving its ability to reason about process and power, not just content. [Read the full technical report for this session](Demonstration of Capabilities\Case Study Sustainability Consultant\Provisional Strategic Synthesis The Net Zero Advisory Initiative.md)
 
 ---
 
