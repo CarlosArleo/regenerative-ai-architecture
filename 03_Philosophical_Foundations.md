@@ -1,6 +1,5 @@
 
 
-
 # **Critically-Informed Regenerative Intelligence: A New Paradigm for AI Architecture**
 
 ## **1. Introduction: Bridging Design and Dialectics in AI**
@@ -48,7 +47,7 @@ The synthesis of these principles results in our core innovation: the **"Glass A
 
 ## **5. Conclusion: A Practical Path to Wise AI**
 
-This work represents a practical application of established regenerative and critical theories to the architecture of AI systems. Our working prototype demonstrates that it is not only possible but necessary to move beyond the current paradigms.
+This work represents a practical application of established regenerative and urban critical theories to the architecture of AI systems. Our working prototype demonstrates that it is not only possible but necessary to move beyond the current paradigms.
 
 Our implementation proves that:
 
