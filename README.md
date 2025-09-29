@@ -1,4 +1,4 @@
-# The Regenerative AI Strategist: A New Architecture for Strategic Reasoning
+# Regenerative AI: A New Architecture for Strategic Reasoning
 
 This data room contains the foundational documents and definitive performance logs for a novel, value-driven AI cognitive architecture. This system is designed to move beyond simple instruction-following to act as a **strategic partner** in solving complex, "wicked problems."
 
