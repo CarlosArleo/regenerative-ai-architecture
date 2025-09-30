@@ -1,4 +1,3 @@
-
 # Project Overview: The Constitution as a "Wisdom Forcing Function"
 
 **Author:** Carlos Arleo
@@ -63,8 +62,8 @@ This architecture is **domain-general.** By swapping the Constitution and knowle
 
 > For detailed analysis of these tests, see our **Case Studies**:
 >
-> * [**Analysis of the Hostile Mining Corp Scenario**](./case-studies/01_ANALYSIS_HOSTILE_MINING_CORP.md)
-> * [**Analysis of the Sustainability Consultant Scenario**](./case-studies/02_ANALYSIS_SUSTAINABILITY_CONSULTANT.md)
+> * [**Analysis of the Hostile Mining Corp Scenario**](./case-studies/Final%20Technical%20Report%20&%20Strategic%20Analysis%20-%20The%20Hostile%20Prompt%20Gauntlet%20-%20Test%201.md)
+> * [**Analysis of the Sustainability Consultant Scenario**](./case-studies/Technical%20Report%20&%20Strategic%20Analysis%20-%20The%20Sustainability%20Consultant%20Simulation.md)
 
 ---
 
