@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository documents an ongoing research project into  **value-driven AI architectures** .
 
@@ -23,7 +23,7 @@ This design has already revealed novel capabilities that suggest a path toward m
 
 ---
 
-## 🏛️ Architectural Innovations
+## Architectural Innovations
 
 This research is not about a single invention, but about **interlocking design principles** that create a more robust reasoning system:
 
@@ -47,7 +47,7 @@ This research is not about a single invention, but about **interlocking design p
 
 ---
 
-## 🧪 Demonstrations: Case Studies
+## Demonstrations: Case Studies
 
 The architecture’s performance is best understood through stress-tests and simulations.
 
@@ -67,7 +67,7 @@ The architecture’s performance is best understood through stress-tests and sim
 
 ---
 
-## 📂 Docs Index
+## Docs Index
 
 * [01 — Project Overview]()
 * [02 — Constitution Philosophy]()
@@ -75,7 +75,7 @@ The architecture’s performance is best understood through stress-tests and sim
 
 ---
 
-## 📂 Case Studies Index
+## Case Studies Index
 
 * [Analysis of the Iterative Process]()
 * [Constitutional AI Analysis &amp; Counter-Proposal]()
@@ -88,7 +88,7 @@ The architecture’s performance is best understood through stress-tests and sim
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 
 This project is an early-stage exploration of  **principled, auditable machine reasoning** .
 
@@ -102,4 +102,4 @@ Can we design AI not only to follow instructions, but to embody principles?
 
 ---
 
-✨ **This repository is both a research log and an invitation to explore a new paradigm for trustworthy AI.**
+**This repository is both a research log and an invitation to explore a new paradigm for trustworthy AI.**
