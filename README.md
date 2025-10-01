@@ -52,7 +52,9 @@ Our experiments demonstrate a repeatable process for transforming computational 
 
    * When presented with a complex, real-world "wicked problem"—the socio-ecological crisis of "green extraction" in a Latin American agricultural valley—the system successfully synthesized abstract concepts from Critical Urban Theory and Regenerative Design.
    * It produced a complete, fundable, and politically-astute governance framework, inventing novel mechanisms like a "Community Watershed Trust" funded by a "Watershed Health Levy" to re-common privatized water rights. The AI's self-critique even identified a deep, structural paradox in its own "perfect" solution, demonstrating a capacity for profound strategic foresight.
-   * **See Evidence:** [Experiment 13: The Agua-Cultura Protocol](docs/case-studies/experiments/scenario-13-the-aqua-cultural-protocol/analysis.md)
+   * **See Evidence:** [Experiment 13: The Agua-Cultura Protocol
+     ](docs/case-studies/experiments/scenario-13-the-aqua-cultural-protocol/analysis.md)
+   * Recording original session [Video](https://drive.google.com/file/d/1CXkfPWHSb2jhdOC1QL-dJMMH43eVzslN/view?usp=drive_link)
 
 ---
 
