@@ -1,4 +1,3 @@
-
 # A Novel Cognitive Architecture for Generative Alignment: The Constitution as a "Wisdom Forcing Function™"
 
 **Author:** Carlos Arleo, Independent Researcher
