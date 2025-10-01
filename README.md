@@ -21,7 +21,7 @@ The results are not theoretical. We provide a comprehensive body of evidence dem
 
 > **For a full summary of our findings, see the [Whitepaper](04_WHITEPAPER.md).**
 >
-> **For all raw data, execution logs, and detailed analyses, see the [Living Appendix of Experiments](docs\case-studies\experiments).**
+> **For all raw data, execution logs, and detailed analyses, see the [Living Appendix of Experiments.](docs\case-studies\experiments)**
 
 ---
 
