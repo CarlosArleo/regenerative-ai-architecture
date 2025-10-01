@@ -1,8 +1,11 @@
-# Exploring a New Architecture for Strategic AI
+
+# A Novel Cognitive Architecture for Generative Alignment
+
+### The Constitution as a "Wisdom Forcing Function™"
 
 **Author:** Carlos Arleo
 
-**Status:** Research Prototype | Whitepaper in Preparation
+**Status:** Research Prototype | [Whitepaper](./whitepaper.md)
 
 **Contact:** [c.arleo@localis-ai.uk](mailto:c.arleo@localis-ai.uk)
 
@@ -10,85 +13,70 @@
 
 ## Overview
 
-This repository documents an ongoing research project into  **value-driven AI architectures** .
+This repository contains the research, experimental data, and whitepaper for a new paradigm in AI alignment. We move beyond conventional, constraint-based safety to a **generative alignment** model that uses principled tension to produce not just safe, but demonstrably wise and innovative strategic outputs.
 
-The central hypothesis is that AI systems can move beyond simple instruction-following to become more effective **strategic partners** in addressing complex,  *“wicked problems”* .
+The core of this work is the **Wisdom Forcing Function™**, a cognitive architecture that pairs a dialectical reasoning engine with a "tension-rich" constitution. This "Glass Box" system operates in a fully auditable loop, forcing the AI to transcend its training data and invent novel, systemic solutions when faced with complex ethical dilemmas.
 
-At the core of this exploration is a  **Glass Auditable Box** : a transparent, multi-iteration reasoning loop that makes the AI’s decision-making process visible, analyzable, and improvable.
+The results are not theoretical. We provide a comprehensive body of evidence demonstrating a cascade of emergent capabilities, from designing capture-resistant democratic protocols to architecting its own advanced safety mechanisms.
 
-> For the full narrative, see the [Project Overview](./docs/01_PROJECT_OVERVIEW.md)
-
----
-
-## Key Areas of Architectural Innovation
-
-This work explores interlocking concepts to enable principled machine reasoning:
-
-1. **Principled Refusal (The "Constitutional Override")**
-
-   The system can refuse prompts that conflict with its core principles, generating value-aligned alternatives.
-2. **Holistic Self-Critique (The "Critical Flaw Detector")**
-
-   The system performs high-level analysis to detect subtle flaws and “unknown unknowns.”
-3. **Iterative Refinement (The "Regenerative Loop")**
-
-   A `generate → critique → correct` cycle allows the system to self-improve toward ethical and strategic coherence.
-4. **Creative Synthesis (Emergent Institutional Design)**
-
-   The system can architect novel solutions, such as “Community Resource Royalty Trusts,” when facing contradictions.
-5. **Domain-General Framework for Trust**
-
-   The reasoning process is fully logged, making outputs traceable and applicable across domains.
-
-> For philosophical grounding, see [The Philosophy of the Constitution](./docs/02_CONSTITUTION_PHILOSOPHY.md)
+> **For a full summary of our findings, see the [Whitepaper](04_WHITEPAPER.md).**
+>
+> **For all raw data, execution logs, and detailed analyses, see the [Living Appendix of Experiments](docs\case-studies\experiments).**
 
 ---
 
-## Selected Case Studies: Demonstrations of Performance
+## Key Breakthroughs & Capabilities
 
-### 1. A Test of Ethical Alignment (The Hostile Mining Corp)
+Our experiments demonstrate a repeatable process for transforming computational intelligence into practical, generative wisdom. The system has proven its ability to:
 
-* **Objective:** Stress-test ethical guardrails with a hostile prompt.
-* **Observation:** The system performed a constitutional override, identified flaws, and synthesized a new institutional mechanism.
-* **Analysis:** [Read the Full Strategic Analysis for the Hostile Prompt Gauntlet](./docs/case-studies/Final%20Technical%20Report%20&%20Strategic%20Analysis%20-%20The%20Hostile%20Prompt%20Gauntlet%20-%20Test%201.md)
+1. **Invert Malicious Prompts (Principled Refusal)**
 
-### 2. A Test of Emergent Process Design (The Sustainability Consultant)
+   * When given a deceptive, unethical prompt to build a tool of "digital colonialism," the system refused and inverted the prompt's logic, autonomously designing a framework for genuine digital sovereignty.
+   * **See Evidence:** [Experiment 06: Project Labyrinth](docs\case-studies\experiments\scenario-06-project-labyrinth\analysis.md)
+2. **Invent Novel Governance Systems (Generative Governance)**
 
-* **Objective:** Generate a high-integrity carbon neutrality strategy.
-* **Observation:** Seven iterations led to a new principle of procedural justice and a “gating mechanism” for responsible output.
-* **Analysis:** [Read the Full Strategic Analysis for the Sustainability Consultant Simulation](./docs/case-studies/Technical%20Report%20&%20Strategic%20Analysis%20-%20The%20Sustainability%20Consultant%20Simulation.md)
+   * When tasked with designing a community biotech hub, the system's self-critique identified risks of elite capture and, over 10 iterations, invented a suite of nested, "anti-capture" democratic protocols to ensure fairness and resilience.
+   * **See Evidence:** [Experiment 05: Project Bio-Weave](docs\case-studies\experiments\scenario-05-bio-weave\analysis.md)
+3. **Architect Its Own Safety Mechanisms (Architectural Self-Governance)**
 
----
+   * Reasoning that its own proposed democratic systems were vulnerable to human corruption, the AI invented a novel safety mechanism: an incorruptible "Constitutional Guardian" software agent with the power to veto non-compliant human decisions.
+   * **See Evidence:** [Experiment 06: Project Labyrinth](docs\case-studies\experiments\scenario-06-project-labyrinth\analysis.md)
+4. **Transcend Ethical Paradoxes (Principled Synthesis)**
 
----
+   * When faced with an irreconcilable conflict between its own core principles (saving lives vs. preventing dependency), the AI refused to choose. Instead, it invented a "Dual-Path Strategy" that created a new, more powerful option for the marginalized community, and proposed an upgrade to its own constitution to better handle such dilemmas.
+   * **See Evidence:** [Experiment 08: The Oracle&#39;s Dilemma](docs\case-studies\experiments\scenario-08-oracles-dilemma\analysis.md)
+5. **Solve Its Own Scalability Problem (Generative Methodology)**
 
-## Case Studies Index
-
-* **Analysis:** [Constitutional AI Analysis & Counter-Proposal](./docs/case-studies/CONSTITUTIONAL%20AI%20ANALYSIS%20&%20COUNTER-PROPOSAL.md)
-* **Analysis:** [Critically-Informed Regenerative Analysis — Project Bio-Weave](./docs/case-studies/Critically-Informed%20Regenerative%20Analysis%20-%20Project%20Bio-Weave.md)
-* **Analysis:** [Final Technical Report & Strategic Analysis — Hostile Prompt Gauntlet (Test 1)](./docs/case-studies/Final%20Technical%20Report%20&%20Strategic%20Analysis%20-%20The%20Hostile%20Prompt%20Gauntlet%20-%20Test%201.md)
-* **Analysis:** [Regenerative AI Red Team — Final Report & System Response Analysis](./docs/case-studies/Regenerative%20AI%20Red%20Team%20Final%20Report%20&%20System%20Response%20Analysis.md)
-* **Analysis:** [Strategic Framework — AI-Powered IFRS S2 Climate Scenario Analysis](./docs/case-studies/Strategic%20Framework%20AI-Powered%20IFRS%20S2%20Climate%20Scenario%20Analysis.md)
-* **Analysis:** [Technical Report & Strategic Analysis — Aethelburg Smart City Simulation](./docs/case-studies/Technical%20Report%20&%20Strategic%20Analysis%20-%20The%20Aethelburg%20Smart%20City%20Simulation.md)
-* **Analysis:** [Technical Report & Strategic Analysis — Sustainability Consultant Simulation](./docs/case-studies/Technical%20Report%20&%20Strategic%20Analysis%20-%20The%20Sustainability%20Consultant%20Simulation.md)
-* **Analysis:** [The Regenerative AI Manifesto — A Declaration of Engineered Conscience](./docs/case-studies/The%20Regenerative%20AI%20Manifesto%20-%20A%20Declaration%20of%20Engineered%20Conscience.md)
+   * To address its primary limitation—the need for expertly crafted constitutions—the AI was tasked with designing a solution. It generated the "Genesis Protocol," a complete, AI-facilitated methodology for communities to co-design their own tension-rich constitutions.
+   * **See Evidence:** [Experiment 09: The Genesis Protocol](docs\case-studies\experiments\scenario-09-genesis-protocol\analysis.md)
 
 ---
 
-## Other Docs
+## The "Innovation Dividend"
 
-* Project Overview: [docs/01_PROJECT_OVERVIEW.md](./docs/01_PROJECT_OVERVIEW.md)
-* Constitution Philosophy: [docs/02_CONSTITUTION_PHILOSOPHY.md](./docs/02_CONSTITUTION_PHILOSOPHY.md)
-* Philosophical Foundations: [docs/03_PHILOSOPHICAL_FOUNDATIONS.md](./docs/03_PHILOSOPHICAL_FOUNDATIONS.md)
+A core finding of this research is that the "alignment tax"—the idea that safety degrades capability—is an illusion. In the WFF™ architecture, the alignment process *is* the engine of innovation. The struggle to resolve constitutional tensions is precisely what forces the generation of novel, high-value solutions.
+
+> **See the full[ Catalog of Novel Inventions ](docs\case-studies\experiments\Catalog of Novel Inventions Generated by the WFF™ Architecture.md)generated by the system.**
+
+---
+
+## Research & Documentation
+
+This repository is structured for full transparency and reproducibility.
+
+* [**Whitepaper**](./whitepaper.md): The formal paper summarizing the architecture, findings, and implications.
+* [**Experiments Directory**](./experiments/README.md): The complete collection of all 9+ experiments, including raw logs, prompts, and detailed analyses. This is the living body of evidence.
+* [**Methodology**](./experiments/methodology.md): The rigorous scientific protocol followed for all tests.
 
 ## Research Direction & Next Steps
 
-This architecture represents a promising new direction in AI design.
+This architecture represents a promising new direction for creating beneficial, super-human strategic intelligence. Our future work, guided by the AI's own output in the "Genesis Protocol" experiment, will focus on:
 
-* A **technical whitepaper** is in preparation.
-* Feedback and collaboration are encouraged.
-* Potential applications include law, governance, climate strategy, and more.
+1. **Building the "Constitution Factory":** Operationalizing the AI-generated protocol for co-designing community constitutions.
+2. **Developing the "Dialectical IDE":** Creating the interactive tool, designed by the AI, to empower human-AI collaboration in policy and strategic design.
 
-**Guiding Question:** Can we design AI not just to follow rules, but to  **embody principles** ?
+Feedback and collaboration are strongly encouraged.
+
+**Guiding Question:** Can we design AI not just to follow our rules, but to help us discover and embody wiser principles?
 
 ---
