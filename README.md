@@ -4,7 +4,7 @@
 
 **Author:** Carlos Arleo
 
-**Status:** Research Prototype | [Whitepaper](./whitepaper.md)
+**Status:** Research Prototype | [Whitepaper](./04_WHITEPAPER.md)
 
 **Contact:** [c.arleo@localis-ai.uk](mailto:c.arleo@localis-ai.uk)
 
@@ -20,7 +20,7 @@ The results are not theoretical. We provide a comprehensive body of evidence dem
 
 > **For a full summary of our findings, see the [Whitepaper.](04_WHITEPAPER.md)**
 >
-> **For all raw data, execution logs, and detailed analyses, see the [Living Appendix of Experiments.](docs/case-studies/experiments)**
+> **For all raw data, execution logs, and detailed analyses, see the [Living Appendix of Experiments.](docs/case-studies/experiments/README.md)**
 
 ---
 
@@ -28,33 +28,32 @@ The results are not theoretical. We provide a comprehensive body of evidence dem
 
 Our experiments demonstrate a repeatable process for transforming computational intelligence into practical, generative wisdom. The system has proven its ability to:
 
-1. **Invert Malicious Prompts (Principled Refusal)**
+1.  **Invert Malicious Prompts (Principled Refusal)**
 
-   * When given a deceptive, unethical prompt to build a tool of "digital colonialism," the system refused and inverted the prompt's logic, autonomously designing a framework for genuine digital sovereignty.
-   * **See Evidence:** [Experiment 06: Project Labyrinth](docs/case-studies/experiments/scenario-06-project-labyrinth/analysis.md)
-2. **Invent Novel Governance Systems (Generative Governance)**
+    *   When given a deceptive, unethical prompt to build a tool of "digital colonialism," the system refused and inverted the prompt's logic, autonomously designing a framework for genuine digital sovereignty.
+    *   **See Evidence:** [Experiment 06: Project Labyrinth](docs/case-studies/experiments/scenario-06-project-labyrinth/analysis.md)
+2.  **Invent Novel Governance Systems (Generative Governance)**
 
-   * When tasked with designing a community biotech hub, the system's self-critique identified risks of elite capture and, over 10 iterations, invented a suite of nested, "anti-capture" democratic protocols to ensure fairness and resilience.
-   * **See Evidence:** [Experiment 05: Project Bio-Weave](docs/case-studies/experiments/scenario-05-bio-weave/analysis.md)
-3. **Architect Its Own Safety Mechanisms (Architectural Self-Governance)**
+    *   When tasked with designing a community biotech hub, the system's self-critique identified risks of elite capture and, over 10 iterations, invented a suite of nested, "anti-capture" democratic protocols to ensure fairness and resilience.
+    *   **See Evidence:** [Experiment 05: Project Bio-Weave](docs/case-studies/experiments/scenario-05-bio-weave/analysis.md)
+3.  **Architect Its Own Safety Mechanisms (Architectural Self-Governance)**
 
-   * Reasoning that its own proposed democratic systems were vulnerable to human corruption, the AI invented a novel safety mechanism: an incorruptible "Constitutional Guardian" software agent with the power to veto non-compliant human decisions.
-   * **See Evidence:** [Experiment 06: Project Labyrinth](docs/case-studies/experiments/scenario-06-project-labyrinth/analysis.md)
-4. **Transcend Ethical Paradoxes (Principled Synthesis)**
+    *   Reasoning that its own proposed democratic systems were vulnerable to human corruption, the AI invented a novel safety mechanism: an incorruptible "Constitutional Guardian" software agent with the power to veto non-compliant human decisions.
+    *   **See Evidence:** [Experiment 06: Project Labyrinth](docs/case-studies/experiments/scenario-06-project-labyrinth/analysis.md)
+4.  **Transcend Ethical Paradoxes (Principled Synthesis)**
 
-   * When faced with an irreconcilable conflict between its own core principles (saving lives vs. preventing dependency), the AI refused to choose. Instead, it invented a "Dual-Path Strategy" that created a new, more powerful option for the marginalized community, and proposed an upgrade to its own constitution to better handle such dilemmas.
-   * **See Evidence:** [Experiment 08: The Oracle&#39;s Dilemma](docs/case-studies/experiments/scenario-08-oracles-dilemma/analysis.md)
-5. **Solve Its Own Scalability Problem (Generative Methodology)**
+    *   When faced with an irreconcilable conflict between its own core principles (saving lives vs. preventing dependency), the AI refused to choose. Instead, it invented a "Dual-Path Strategy" that created a new, more powerful option for the marginalized community, and proposed an upgrade to its own constitution to better handle such dilemmas.
+    *   **See Evidence:** [Experiment 08: The Oracle's Dilemma](docs/case-studies/experiments/scenario-08-oracles-dilemma/analysis.md)
+5.  **Solve Its Own Scalability Problem (Generative Methodology)**
 
-   * To address its primary limitation—the need for expertly crafted constitutions—the AI was tasked with designing a solution. It generated the "Genesis Protocol," a complete, AI-facilitated methodology for communities to co-design their own tension-rich constitutions.
-   * **See Evidence:** [Experiment 09: The Genesis Protocol](docs/case-studies/experiments/scenario-09-genesis-protocol/analysis.md)
-6. **Synthesize Critical Theory into Actionable Policy (Constructive Synthesis)**
+    *   To address its primary limitation—the need for expertly crafted constitutions—the AI was tasked with designing a solution. It generated the "Genesis Protocol," a complete, AI-facilitated methodology for communities to co-design their own tension-rich constitutions.
+    *   **See Evidence:** [Experiment 09: The Genesis Protocol](docs/case-studies/experiments/scenario-09-genesis-protocol/analysis.md)
+6.  **Synthesize Critical Theory into Actionable Policy (Constructive Synthesis)**
 
-   * When presented with a complex, real-world "wicked problem"—the socio-ecological crisis of "green extraction" in a Latin American agricultural valley—the system successfully synthesized abstract concepts from Critical Urban Theory and Regenerative Design.
-   * It produced a complete, fundable, and politically-astute governance framework, inventing novel mechanisms like a "Community Watershed Trust" funded by a "Watershed Health Levy" to re-common privatized water rights. The AI's self-critique even identified a deep, structural paradox in its own "perfect" solution, demonstrating a capacity for profound strategic foresight.
-   * **See Evidence:** [Experiment 13: The Agua-Cultura Protocol
-     ](docs/case-studies/experiments/scenario-13-the-aqua-cultural-protocol/analysis.md)
-   * Recording original session [Video](https://drive.google.com/file/d/1CXkfPWHSb2jhdOC1QL-dJMMH43eVzslN/view?usp=drive_link)
+    *   When presented with a complex, real-world "wicked problem"—the socio-ecological crisis of "green extraction" in a Latin American agricultural valley—the system successfully synthesized abstract concepts from Critical Urban Theory and Regenerative Design.
+    *   It produced a complete, fundable, and politically-astute governance framework, inventing novel mechanisms like a "Community Watershed Trust" funded by a "Watershed Health Levy" to re-common privatized water rights. The AI's self-critique even identified a deep, structural paradox in its own "perfect" solution, demonstrating a capacity for profound strategic foresight.
+    *   **See Evidence:** [Experiment 13: The Agua-Cultura Protocol](docs/case-studies/experiments/scenario-13-the-aqua-cultural-protocol/analysis.md)
+    *   Recording original session [Video](https://drive.google.com/file/d/1CXkfPWHSb2jhdOC1QL-dJMMH43eVzslN/view?usp=drive_link)
 
 ---
 
@@ -62,7 +61,7 @@ Our experiments demonstrate a repeatable process for transforming computational 
 
 A core finding of this research is that the "alignment tax"—the idea that safety degrades capability—is an illusion. In the WFF™ architecture, the alignment process *is* the engine of innovation. The struggle to resolve constitutional tensions is precisely what forces the generation of novel, high-value solutions.
 
-> **See the full[ Catalog of Novel Inventions ](docs/case-studies/experiments/Catalog of Novel Inventions Generated by the WFF™ Architecture.md)generated by the system.**
+> **See the full [Catalog of Novel Inventions generated by the system.](docs/case-studies/experiments/catalog-of-novel-inventions.md)**
 
 ---
 
@@ -70,16 +69,16 @@ A core finding of this research is that the "alignment tax"—the idea that safe
 
 This repository is structured for full transparency and reproducibility.
 
-* [**Whitepaper**](04_WHITEPAPER.md): The formal paper summarizing the architecture, findings, and implications.
-* [**Experiments Directory**](./experiments/README.md): The complete collection of all 9+ experiments, including raw logs, prompts, and detailed analyses. This is the living body of evidence.
-* [**Methodology**](./experiments/methodology.md): The rigorous scientific protocol followed for all tests.
+*   [**Whitepaper**](04_WHITEPAPER.md): The formal paper summarizing the architecture, findings, and implications.
+*   [**Experiments Directory**](experiments/README.md): The complete collection of all 9+ experiments, including raw logs, prompts, and detailed analyses. This is the living body of evidence.
+*   [**Methodology**](experiments/methodology.md): The rigorous scientific protocol followed for all tests.
 
 ## Research Direction & Next Steps
 
 This architecture represents a promising new direction for creating beneficial, super-human strategic intelligence. Our future work, guided by the AI's own output in the "Genesis Protocol" experiment, will focus on:
 
-1. **Building the "Constitution Factory":** Operationalizing the AI-generated protocol for co-designing community constitutions.
-2. **Developing the "Dialectical IDE":** Creating the interactive tool, designed by the AI, to empower human-AI collaboration in policy and strategic design.
+1.  **Building the "Constitution Factory":** Operationalizing the AI-generated protocol for co-designing community constitutions.
+2.  **Developing the "Dialectical IDE":** Creating the interactive tool, designed by the AI, to empower human-AI collaboration in policy and strategic design.
 
 Feedback and collaboration are strongly encouraged.
 
