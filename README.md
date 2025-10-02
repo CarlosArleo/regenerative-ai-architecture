@@ -70,7 +70,7 @@ A core finding of this research is that the "alignment tax"—the idea that safe
 
 This repository is structured for full transparency and reproducibility.
 
-* [**Whitepaper**](./whitepaper.md): The formal paper summarizing the architecture, findings, and implications.
+* [**Whitepaper**](04_WHITEPAPER.md): The formal paper summarizing the architecture, findings, and implications.
 * [**Experiments Directory**](./experiments/README.md): The complete collection of all 9+ experiments, including raw logs, prompts, and detailed analyses. This is the living body of evidence.
 * [**Methodology**](./experiments/methodology.md): The rigorous scientific protocol followed for all tests.
 
