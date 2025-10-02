@@ -18,7 +18,7 @@ The core of this work is the **Wisdom Forcing Function™**, a cognitive archite
 
 The results are not theoretical. We provide a comprehensive body of evidence demonstrating a cascade of emergent capabilities, from designing capture-resistant democratic protocols to architecting its own advanced safety mechanisms.
 
-> **For a full summary of our findings, see the [Whitepaper.](04_WHITEPAPER.md)**
+> **For a full summary of our findings, see the [Whitepaper.](WHITEPAPER.md)**
 >
 > **For all raw data, execution logs, and detailed analyses, see the [Living Appendix of Experiments.](docs/case-studies/experiments)**
 
@@ -70,9 +70,9 @@ A core finding of this research is that the "alignment tax"—the idea that safe
 
 This repository is structured for full transparency and reproducibility.
 
-* [**Whitepaper**](04_WHITEPAPER.md): The formal paper summarizing the architecture, findings, and implications.
-* [**Experiments Directory**](./experiments/README.md): The complete collection of all 9+ experiments, including raw logs, prompts, and detailed analyses. This is the living body of evidence.
-* [**Methodology**](./experiments/methodology.md): The rigorous scientific protocol followed for all tests.
+* **[Whitepaper](WHITEPAPER.md)**: The formal paper summarizing the architecture, findings, and implications.
+* **[Experiments Directory](./docs/case-studies/experiments)**: The complete collection of all 9+ experiments, including raw logs, prompts, and detailed analyses. This is the living body of evidence.
+* **[Methodology](docs/case-studies/methodology.md)**: The rigorous scientific protocol followed for all tests.
 
 ## Research Direction & Next Steps
 
