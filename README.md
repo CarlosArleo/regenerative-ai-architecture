@@ -18,7 +18,7 @@ The core of this work is the **Wisdom Forcing Function™**, a cognitive archite
 
 The results are not theoretical. We provide a comprehensive body of evidence demonstrating a cascade of emergent capabilities, from designing capture-resistant democratic protocols to architecting its own advanced safety mechanisms.
 
-> **For a full summary of our findings, see the [Whitepaper](WHITEPAPER.md).**
+> **For a full summary of our findings, see the [Whitepaper.](WHITEPAPER.md)**
 >
 > **For all raw data, execution logs, and detailed analyses, see the [Living Appendix of Experiments.](docs/case-studies/experiments)**
 
