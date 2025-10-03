@@ -1,5 +1,4 @@
 
-
 ### **Title:** Project Overview: The Constitution as a "Wisdom Forcing Function™"
 
 **Author:** Carlos Arleo, Regenerative AI Systems
