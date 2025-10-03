@@ -26,7 +26,7 @@ Our experiments were designed to test the system's capabilities under a range of
 * **Architectural Self-Governance:** In adversarial tests, the AI has reasoned about its own vulnerabilities and architected its own layered safety mechanisms, including an incorruptible "Constitutional Guardian" agent.
 * **Scalability via Facilitation:** To solve its own "Expert Bottleneck," the system generated the **"Genesis Protocol™,"** a complete, AI-facilitated methodology for communities to co-design their own constitutions, reframing the AI's role from an oracle to an expert facilitator.
 
-> **For the definitive proof of these capabilities, see our flagship case study: [The Tale of Three AIs.](./docs/case-studies/The_Tale_of_Three_AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md)**
+> **For the definitive proof of these capabilities, see our flagship case study: [The Tale of Three AIs.](docs/case-studies/The%20Tale%20of%20Three%20AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md)**
 
 ---
 
