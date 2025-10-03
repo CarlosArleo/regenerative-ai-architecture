@@ -1,10 +1,10 @@
-# Building with AI: A 21-Day Chronicle of Human-Machine Collaboration
+# Building with AI: A 28-Day Chronicle of Human-Machine Collaboration
 
 **An Introduction by Carlos Enrique Arleo**
 
 ---
 
-This document chronicles an unusual experiment in software development. Over 21 days in September 2025, I—an architect and urban theorist with no prior coding experience—partnered with Google's Gemini AI to design and build a full-stack cognitive architecture for AI alignment.
+This document chronicles an unusual experiment in software development. Over 28 days in September 2025, I—an architect and urban theorist with no prior coding experience—partnered with Google's Gemini AI to design and build a full-stack cognitive architecture for AI alignment.
 
 The system, called the Wisdom Forcing Function, implements a regenerative feedback loop where AI outputs are continuously evaluated against a constitutional framework derived from regenerative development and critical urban theory principles. The complete process is documented in an unedited conversation log of over one million tokens and a publicly verifiable Git commit history.
 
