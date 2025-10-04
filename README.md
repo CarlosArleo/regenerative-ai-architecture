@@ -1,47 +1,171 @@
-**Title:** An Inquiry into Generative Alignment: The Constitution as a "Wisdom Forcing Function™"
 
-**Author:** Carlos Arleo
-**Status:** Research Prototype | Whitepaper Available for Discussion
-**Contact:** [c.arleo@localis-ai.uk](mailto:c.arleo@localis-ai.uk)
+# The Wisdom Forcing Function
 
----
+## Reframing AI Alignment from Constraint to Catalyst
 
-### **1. A New Research Direction**
-
-This repository documents an ongoing inquiry into a new paradigm for AI alignment. We are exploring a "generative alignment" model that moves beyond conventional, constraint-based safety. Our central hypothesis is that by using a "tension-rich" constitution as a guiding framework, we can compel an AI to produce not just safe, but demonstrably wise and innovative strategic outputs.
-
-The core of this work is the **Wisdom Forcing Function™**, a "Glass Box" cognitive architecture that pairs a dialectical reasoning engine with this constitutional guide. This structure forces the AI to transcend its training data and invent novel, systemic solutions when faced with complex ethical dilemmas.
-
-This repository contains our core findings, key case studies, and supporting documents.
-
-> **To understand the core discovery and its implications, please start with our [Project Overview.](./docs/01_project_overview.md)**
+**Author:** Carlos Arleo | Architect & Urban Researcher
+**Institution:** The Regenerative Development Initiative
+**Contact:** c.arleo@localis-ai.uk
+**Status:** Research Prototype - Seeking Collaborators
 
 ---
 
-### **2. Key Emergent Capabilities**
+## What is this?
 
-Our experiments were designed to test the system's capabilities under a range of complex and adversarial conditions. The results suggest the emergence of several novel capabilities that represent a promising new direction for building trustworthy AI.
+The **Wisdom Forcing Function (WFF)** is a dialectical AI architecture that treats alignment not as a constraint to minimize harm, but as a catalyst to generate wisdom. By using tension-rich constitutions as a forcing function, the system produces novel governance solutions through structured cognitive conflict.
 
-* **Generative Governance Design:** The system has demonstrated the ability to autonomously invent novel, "anti-capture" democratic protocols to ensure fairness and resilience in its own strategic proposals.
-* **Architectural Self-Governance:** In adversarial tests, the AI has reasoned about its own vulnerabilities and architected its own layered safety mechanisms, including an incorruptible "Constitutional Guardian" agent.
-* **Scalability via Facilitation:** To solve its own "Expert Bottleneck," the system generated the **"Genesis Protocol™,"** a complete, AI-facilitated methodology for communities to co-design their own constitutions, reframing the AI's role from an oracle to an expert facilitator.
+**Core thesis:** The "alignment tax" (the idea that safety reduces capability) is an artifact of limited design. When alignment is architected as productive tension rather than restrictive rules, it becomes an engine for innovation—what we call the "innovation dividend."
 
-> **For the definitive proof of these capabilities, see our flagship case study: [The Tale of Three AIs.](docs/case-studies/The%20Tale%20of%20Three%20AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md)**
+### The Architecture
+
+The WFF operates through a **Zero-Trust Cognitive Loop:**
+
+1. **Constitution Loading** — Tension-rich principles guide all reasoning
+2. **RAG-Enhanced Generation** — Context-grounded proposals (Generator)
+3. **Critical Analysis** — Constitutional and strategic critique (Critic)
+4. **Programmatic Verification** — Non-LLM fact-checking of critiques (VDK Verifier)
+5. **Dialectical Synthesis** — Higher-order solutions resolving verified tensions (Synthesizer)
+6. **Iteration** — Process repeats until constitutional coherence achieved
+7. **Glass Box Audit Trail** — Every step logged for transparency
+
+![WFF Architecture](docs/assets/wff-architecture.png)
+
+---
+
+## Why it matters
+
+Current AI alignment focuses primarily on preventing harm through constraint optimization. This is necessary but insufficient for addressing complex, systemic challenges. The WFF explores whether alignment can be designed to:
+
+- **Generate novel solutions** to problems beyond its training data
+- **Self-correct through dialectical struggle** rather than just following rules
+- **Produce auditable reasoning** that humans can inspect and trust
+- **Scale democratically** by enabling communities to co-design their own AI constitutions
+
+This approach synthesizes insights from:
+
+- **Dialectical Systems** (Henri Lefebvre) — Productive tension in social space
+- **Regenerative Design** (Bill Reed, Janine Benyus) — Cultivating potential, not just minimizing harm
+- **Critical Theory** (Habermas, Foucault) — Power-aware, democratically-oriented technology
 
 ---
 
-### **3. The "Innovation Dividend"**
+## Key Findings
 
-A core finding of this research is that the "alignment tax"—the idea that safety degrades capability—is an illusion within this architecture. The alignment process *is* the engine of innovation. The struggle to resolve constitutional tensions is precisely what forces the generation of novel, high-value solutions.
+### 1. The Innovation Dividend
+
+Across multiple experiments, the WFF has autonomously synthesized novel governance architectures, including:
+
+- **Self-enforcing accountability mechanisms** with "dead man's switch" protocols
+- **Anti-capture democratic designs** with nested verification loops
+- **Living treaties** with ecological ratchet principles
+- **Meta-ethical principles** like "Liberatory Intervention" to resolve constitutional paradoxes
+
+**See:** [Table 1 in the paper](docs/WFF_Paper.pdf) for novelty assessments
+
+### 2. Iteration is Necessary
+
+A deep-dive case study (the "Interrogation Protocol") demonstrates that a single pass with a good constitution produces good first drafts, but **the most resilient, anti-fragile components emerge only through iterative dialectical struggle.**
+
+Over 10 iterations, the system:
+
+- Identified voluntary enforcement vulnerabilities → invented Political Praxis principle
+- Recognized meta-cognitive risks → created Autonomous Dissemination architecture
+- Self-hardened through architectural invention
+
+**See:** [Interrogation Protocol analysis](docs/case-studies/experiments/) for the full trace
+
+### 3. The Genesis Protocol
+
+The WFF solved its own primary limitation (the "Expert Bottleneck" of requiring human-written constitutions) by generating a complete methodology for communities to co-design their own constitutions:
+
+- **Tension Finder Workshop** — Surface lived tensions from community history
+- **Principle Derivation Framework** — Translate tensions into operational principles
+- **Dialectical IDE Concept** — Interactive tool for constitutional red-teaming
+
+This reframes the AI's role from oracle (providing answers) to facilitator (providing process).
+
+**See:** [Genesis Protocol case study](docs/case-studies/experiments/)
+
+### 4. Constitutional Guidance is Powerful
+
+A comparative experiment ("The Tale of Three AIs") shows that even a single pass with a tension-rich constitution dramatically improves strategic quality compared to an unconstrained baseline.
+
+**See:** [The Tale of Three AIs](docs/case-studies/The%20Tale%20of%20Three%20AIs/)
 
 ---
 
-### **4. Research Direction & Next Steps**
+## Current Limitations
 
-This work suggests a promising new direction for creating beneficial, super-human strategic intelligence. Our future work, guided by the AI's own output in the "Genesis Protocol" experiment, will focus on operationalizing this new paradigm.
+This is early-stage research. Key limitations include:
 
-A full technical whitepaper, detailing the architecture and comprehensive experimental results, is maintained privately and is available for discussion with potential research partners and collaborators.
+- **Limited baseline comparisons** — Deep-dive case studies need rigorous A/B testing
+- **Novelty claims need external validation** — Independent experts should assess synthesized architectures
+- **Computational cost** — Iteration is expensive; optimization needed for production use
+- **Self-assessment bias** — Author-evaluated novelty scores (0-5 scale) need blind external review
 
-We are actively seeking feedback and collaboration.
+**These limitations are why I'm seeking collaborators.** I believe this approach has potential, but it needs rigorous, independent validation.
 
 ---
+
+## Read More
+
+- 📄 **[Full Paper](docs/WFF_Paper.pdf)** — Theoretical framework, architecture details, experimental results
+- 📖 **[Project Overview](docs/01_project_overview.md)** — Quick conceptual introduction
+- 🧭 **[Constitutional Philosophy](docs/02_constitution_philosophy.md)** — The principles that guide the system
+- 🔬 **[Case Studies](docs/case-studies/)** — Detailed experiments and analyses
+- ⭐ **[The Tale of Three AIs](docs/case-studies/The%20Tale%20of%20Three%20AIs/)** — Comparative demonstration of constitutional power
+
+---
+
+## Get Involved
+
+I'm actively seeking collaborators for validation and development. Specifically looking for:
+
+### Research Partners
+
+- **AI safety researchers** — To rigorously test against baselines and validate novelty claims
+- **Constitutional AI researchers** — To explore extensions and integrations with existing work
+- **Critical AI scholars** — To strengthen the power-aware, democratic design
+
+### Practitioners
+
+- **Participatory governance practitioners** — To pilot the Genesis Protocol with real communities
+- **DAO/cooperative organizers** — To test constitutional co-design methodologies
+- **Regenerative design practitioners** — To validate the operationalization of regenerative principles
+
+### Technical Collaborators
+
+- **ML engineers** — To optimize the architecture for production use
+- **Verification specialists** — To strengthen the VDK and audit trail systems
+
+### Institutional/Funding Partners
+
+- **Research institutions** — For academic validation and funding access
+- **Foundations** — Focused on democratic tech, AI governance, or regenerative systems
+
+---
+
+## How to Contribute
+
+1. **Read** the [paper](docs/WFF_Paper.pdf) and explore [case studies](docs/case-studies/)
+2. **Open an issue** to share thoughts, critiques, or identify opportunities
+3. **Email me directly** at c.arleo@localis-ai.uk to discuss collaboration
+4. **See** [CONTRIBUTING.md](CONTRIBUTING.md) for more detailed guidance
+
+I'm committed to open, transparent research and shared credit. If you're interested in exploring these ideas together, let's talk.
+
+---
+
+## Citation
+
+If you reference or build upon this work:
+
+```bibtex
+@misc{arleo2025wff,
+  author = {Arleo, Carlos},
+  title = {From Urban Ecology to AI Alignment: The Wisdom Forcing Function as an Innovation Dividend},
+  year = {2025},
+  institution = {The Regenerative Development Initiative},
+  url = {https://github.com/[your-username]/Living-Systems-Data-Room}
+}
+```
