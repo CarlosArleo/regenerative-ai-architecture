@@ -10,17 +10,14 @@
 
 ---
 
-
-
-
 ## The Problem
 
 Current AI alignment treats safety as  **constraint optimization** : preventing harm by restricting capability. This approach:
 
-* ✅ Effectively mitigates known risks
-* ❌ Cannot generate novel solutions to complex systemic problems
-* ❌ Positions alignment as a cost center, reducing utility
-* ❌ Lacks the wisdom needed for navigating unprecedented challenges
+* Effectively mitigates known risks
+* Cannot generate novel solutions to complex systemic problems
+* Positions alignment as a cost center, reducing utility
+* Lacks the wisdom needed for navigating unprecedented challenges
 
 **We asked:** What if alignment could be designed not just to constrain, but to  *cultivate* ?
 
@@ -49,8 +46,6 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 7. Audit Trail → Every step logged for transparency
 ```
 
-![WFF Architecture](/docs/assets/wff-architecture.png)
-
 **Key Innovation:** The  **Verifier Development Kit (VDK)** —a non-LLM programmatic engine—ensures critiques are grounded in actual logic, not hallucinations. This creates a "Zero-Trust Cognitive Loop" where no agent's output is trusted until verified.
 
 ---
@@ -61,13 +56,13 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 
 The WFF has autonomously synthesized:
 
-| Architecture                                | Description                                                                                         | Novelty    |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------- |
-| **Unbypassable Gates**                | Constitutional validation in code constructors—systems*cannot instantiate*in compromised states  | ⭐⭐⭐⭐⭐ |
-| **Dead Man's Switch Accountability**  | Self-enforcing transparency protocols with autonomous dissemination triggers                        | ⭐⭐⭐⭐⭐ |
-| **Living Treaties**                   | Adaptive agreements with ecological ratchet principles—can strengthen but never weaken protections | ⭐⭐⭐⭐⭐ |
-| **Anti-Capture Democratic Protocols** | Nested verification loops preventing elite capture                                                  | ⭐⭐⭐⭐⭐ |
-| **Liberatory Intervention**           | Meta-ethical principle resolving paradoxes in the system's own constitution                         | ⭐⭐⭐⭐⭐ |
+| Architecture                                | Description                                                                                         | Novelty |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- |
+| **Unbypassable Gates**                | Constitutional validation in code constructors—systems*cannot instantiate*in compromised states  | 4/5     |
+| **Dead Man's Switch Accountability**  | Self-enforcing transparency protocols with autonomous dissemination triggers                        | 5/5     |
+| **Living Treaties**                   | Adaptive agreements with ecological ratchet principles—can strengthen but never weaken protections | 5/5     |
+| **Anti-Capture Democratic Protocols** | Nested verification loops preventing elite capture                                                  | 5/5     |
+| **Liberatory Intervention**           | Meta-ethical principle resolving paradoxes in the system's own constitution                         | 5/5     |
 
 *See [Table 1 in the paper](https://claude.ai/chat/docs/WFF_Paper.pdf) for detailed assessments*
 
@@ -236,7 +231,7 @@ We're actively seeking collaborators across multiple domains:
 ### Quick Start
 
 1. **Read** the [paper](https://claude.ai/chat/docs/WFF_Paper.pdf) (25 min) or [project overview](https://claude.ai/chat/docs/01_project_overview.md) (10 min)
-2. **Explore** a [case study](https://claude.ai/chat/docs/case-studies/The%20Tale%20of%20Three%20AIs/) that interests you
+2. **Explore** a [Case Studies ](https://github.com/YourUsername/Living-System/tree/main/docs/case-studies)that interests you
 3. **Choose your path:**
    * **Researchers:** Open an issue proposing validation experiments
    * **Practitioners:** Email about piloting opportunities
@@ -259,7 +254,7 @@ We're actively seeking collaborators across multiple domains:
 * Accessible documentation
 * Diverse collaboration
 
-See [CONTRIBUTING.md](https://claude.ai/chat/CONTRIBUTING.md) for detailed guidance.
+See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidance.
 
 ---
 
@@ -282,7 +277,7 @@ If you reference or build upon this work:
 
 ## License
 
-This research is released under the MIT License. See [LICENSE](https://claude.ai/chat/LICENSE) for details.
+This research is released under the MIT License. See [LICENSE](LICENSE.md) for details.
 
 ---
 
