@@ -46,7 +46,7 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 7. Audit Trail → Every step logged for transparency
 ```
 
-![WFF Architecture](docs/assets/wff-architecture.png)
+![WFF Architecture](/docs/assets/wff-architecture.png)
 
 **Key Innovation:** The  **Verifier Development Kit (VDK)** —a non-LLM programmatic engine—ensures critiques are grounded in actual logic, not hallucinations. This creates a "Zero-Trust Cognitive Loop" where no agent's output is trusted until verified.
 
