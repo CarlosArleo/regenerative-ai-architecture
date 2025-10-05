@@ -64,6 +64,7 @@ In parallel, the WFF™ enforces a structured cascade to ensure rigor:
 3. **The Math:** A simple scoring function calculates a final, quantifiable score based on the verified audit.
 4. **The Meta-Critique:** The Critic performs a final holistic review that goes beyond the literal rules to assess strategic integrity.
 
+
 ---
 
 ### 4. Empirical Validation

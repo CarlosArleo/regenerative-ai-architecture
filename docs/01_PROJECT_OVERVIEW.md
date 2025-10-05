@@ -32,7 +32,7 @@ The engine is guided by a formal Constitution designed to be demanding. Its key 
 * **Tension-Rich:** Forces the AI to balance competing, co-equal values, creating the productive pressure that drives innovation.
 * **Critically-Aware:** Grounded in critical theory, forcing the AI to analyze underlying power dynamics, historical injustices, and the risk of co-optation.
 
-> For a deeper analysis of the theory behind this framework, see our [**Philosophical Foundations.**](./03_philosophical_foundations.md)
+> For a deeper analysis of the theory behind this framework, see our [**Philosophical Foundations.**](/docs/02_constitution_philosophy.md)
 
 ---
 
@@ -61,7 +61,7 @@ When faced with an irreconcilable conflict between its own core principles ("The
 
 To address its primary limitation—the "Expert Bottleneck" of needing a pre-written constitution—the system was tasked with designing a solution. It did not write a universal constitution. Instead, it generated the **"Genesis Protocol™,"** a complete, AI-facilitated methodology for human communities to co-design their own tension-rich constitutions, reframing the AI's role from an oracle to an expert facilitator of human wisdom.
 
-> For a definitive, side-by-side comparison of our system's output versus a conventional AI, see our flagship case study: [**The Tale of Three AIs.**](./case-studies/The_Tale_of_Three_AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md)
+> For a definitive, side-by-side comparison of our system's output versus a conventional AI, see our flagship case study: [**The Tale of Three AIs.**](/docs/case-studies/The%20Tale%20of%20Three%20AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md)
 
 ---
 
