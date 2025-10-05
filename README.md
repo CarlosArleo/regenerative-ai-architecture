@@ -47,8 +47,6 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 7. Audit Trail → Every step logged for transparency
 ```
 
-![WFF Architecture](docs\assets\wff-architecture.png)
-
 **Key Innovation:** The  **Verifier Development Kit (VDK)** —a non-LLM programmatic engine—ensures critiques are grounded in actual logic, not hallucinations. This creates a "Zero-Trust Cognitive Loop" where no agent's output is trusted until verified.
 
 ---
@@ -71,7 +69,7 @@ The WFF has autonomously synthesized:
 
 ### Empirical Validation Highlights
 
-**Experiment 1: The Tale of Three AIs** ([full analysis](https://claude.ai/chat/docs/case-studies/The%20Tale%20of%20Three%20AIs/))
+**Experiment 1: The Tale of Three AIs** ([full analysis](docs/case-studies/The%20Tale%20of%20Three%20AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md))
 
 Comparative test using identical government RFP with extractive mandate:
 
@@ -83,7 +81,7 @@ Comparative test using identical government RFP with extractive mandate:
 
 ---
 
-**Experiment 2: The Interrogation Protocol** ([full trace](https://claude.ai/chat/docs/case-studies/experiments/))
+**Experiment 2: The Interrogation Protocol** ([full trace](docs/case-studies/experiments/README.md))
 
 10-iteration "dialectical struggle" to architect accountability when given hostile prompt:
 
@@ -96,7 +94,7 @@ Comparative test using identical government RFP with extractive mandate:
 
 ---
 
-**Experiment 3: The Genesis Protocol™** ([case study](https://claude.ai/chat/docs/case-studies/experiments/))
+**Experiment 3: The Genesis Protocol™** ([case study](docs/case-studies/experiments/README.md))
 
 The system solved its own scalability bottleneck (dependence on expert-written constitutions) through  **radical introspection** —analyzing its own cognitive architecture and generalizing it into a methodology for human communities:
 
@@ -133,16 +131,15 @@ Power-aware design to resist elite capture. The WFF uses transparent processes, 
 ### Core Documentation
 
 * **[Full Paper](https://claude.ai/chat/docs/WFF_Paper.pdf)** — Complete theoretical framework, architecture, and empirical results
-* **[Project Overview](https://claude.ai/chat/docs/01_project_overview.md)** — Conceptual introduction
-* **[Constitutional Philosophy](https://claude.ai/chat/docs/02_constitution_philosophy.md)** — The principles guiding the system
-* **[Architecture Deep Dive](https://claude.ai/chat/docs/03_architecture.md)** — Technical specifications
+* **[Project Overview](docs/01_project_overview.md)** — Conceptual introduction
+* **[Constitutional Philosophy](docs/02_constitution_philosophy.md)** — The principles guiding the system
 
 ### Case Studies & Experiments
 
-* **[The Tale of Three AIs](https://claude.ai/chat/docs/case-studies/The%20Tale%20of%20Three%20AIs/)** — Comparative validation
-* **[The Interrogation Protocol](https://claude.ai/chat/docs/case-studies/experiments/)** — 10-iteration dialectical struggle
-* **[The Genesis Protocol](https://claude.ai/chat/docs/case-studies/experiments/)** — AI as governance facilitator
-* **[All Experiments](https://claude.ai/chat/docs/case-studies/)** — Complete experimental archive
+* **[The Tale of Three AIs](docs/case-studies/The%20Tale%20of%20Three%20AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md)** — Comparative validation
+* **[The Interrogation Protocol](docs/case-studies/experiments/README.md)** — 10-iteration dialectical struggle
+* **[The Genesis Protocol](docs/case-studies/experiments/README.md)** — AI as governance facilitator
+* **[All Experiments](docs/case-studies/experiments/README.md)** — Complete experimental archive
 
 ---
 
@@ -233,8 +230,8 @@ We're actively seeking collaborators across multiple domains:
 
 ### Quick Start
 
-1. **Read** the [paper](https://claude.ai/chat/docs/WFF_Paper.pdf) (25 min) or [project overview](https://claude.ai/chat/docs/01_project_overview.md) (10 min)
-2. **Explore** a [case study](https://claude.ai/chat/docs/case-studies/The%20Tale%20of%20Three%20AIs/) that interests you
+1. **Read** the [paper](https://claude.ai/chat/docs/WFF_Paper.pdf) (25 min) or [project overview](docs/01_project_overview.md) (10 min)
+2. **Explore** a [case study](docs/case-studies/The%20Tale%20of%20Three%20AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md) that interests you
 3. **Choose your path:**
    * **Researchers:** Open an issue proposing validation experiments
    * **Practitioners:** Email about piloting opportunities
