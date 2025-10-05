@@ -10,6 +10,9 @@
 
 ---
 
+
+
+
 ## The Problem
 
 Current AI alignment treats safety as  **constraint optimization** : preventing harm by restricting capability. This approach:
@@ -176,7 +179,7 @@ This is  **early-stage research** . Critical limitations requiring collaborative
 
 We're actively seeking collaborators across multiple domains:
 
-### 🔬 Research Partners
+### Research Partners
 
 **AI Safety & Alignment Researchers**
 
@@ -239,6 +242,7 @@ We're actively seeking collaborators across multiple domains:
    * **Practitioners:** Email about piloting opportunities
    * **Developers:** Check [technical roadmap](https://claude.ai/chat/CONTRIBUTING.md) for priority areas
    * **All:** Share critiques, identify gaps, suggest collaborations
+   * [Video](https://drive.google.com/drive/folders/1DQa8QjJB3blLUlEIIvYysh8d6ntiDs9X?usp=drive_link)
 
 ### Contact
 
