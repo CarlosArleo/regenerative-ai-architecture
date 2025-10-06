@@ -1,3 +1,8 @@
+![WFF Architecture](docs/assets/wff-architecture.png)
+
+
+
+
 # The Wisdom Forcing Function™
 
 ### What if AI alignment could invent solutions, not just prevent harm?
@@ -12,7 +17,7 @@
 
 ---
 
-![WFF Architecture](docs/assets/wff-architecture.png)Current AI alignment treats safety as  **constraint optimization** : preventing harm by restricting capability. This approach:
+Current AI alignment treats safety as  **constraint optimization** : preventing harm by restricting capability. This approach:
 
 * Mitigates known risks effectively
 * Cannot generate novel solutions to complex systemic problems
