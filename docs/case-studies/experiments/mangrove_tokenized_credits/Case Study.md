@@ -32,4 +32,4 @@
 - Sovereignty Levy embedded in smart contract
 - Bioregional Governance Compact with veto power
 
-[Full analysis](docs/case-studies/experiments/mangrove_tokenized_credits/analysis.md)
+[Full analysis](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies/experiments/mangrove_tokenized_credits)
