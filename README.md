@@ -1,8 +1,5 @@
 ![WFF Architecture](docs/assets/wff-architecture.png)
 
-
-
-
 # The Wisdom Forcing Function™
 
 ### What if AI alignment could invent solutions, not just prevent harm?
@@ -149,7 +146,7 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 
 ### Quick Start
 
-1. Read the [WFF Paper](https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/WFF_Paper.pdf) or [Project Overview](https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/01-project-overview.md)
+1. Read the [WFF Paper](https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/WFF_Paper.pdf) [https://zenodo.org/records/17279105](https://zenodo.org/records/17279105) or [Project Overview](https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/01-project-overview.md)
 2. Explore [Case Studies](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies)
 3. Choose your path: research, practice, or technical development
 4. Open issues, suggest experiments, or pilot protocols
