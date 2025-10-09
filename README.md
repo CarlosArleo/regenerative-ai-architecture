@@ -77,22 +77,10 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 * **[The Interrogation Protocol](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies/experiments/The%20Interrogation%20Protocol)**
 
   10-iteration dialectical struggle to architect accountability.
-* **[The Tale of Three AIs](docs/case-studies/experiments/The%20Tale%20of%20Three%20AIs)**
+* **[The Tale of Three AIs](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies/experiments/The%20Tale%20of%20Three%20AIs)**
 
   Comparative validation of Constitutional vs. full WFF models.
-* **[DAO 3.0 - A Verifiable Blueprint](docs/case-studies/experiments/DAO%203.0%20-%20A%20Verifiable%20Blueprint)**
-
-  A blueprint for a verifiable, constitution-based DAO.
-* **[EUI City-to-City Exchange Demonstration](docs/case-studies/experiments/EUI%20City-to-City%20Exchange%20Demonstration)**
-
-  A demonstration of the WFF in an EUI city-to-city exchange.
-* **[Mangrove Tokenized Credits](docs/case-studies/experiments/mangrove_tokenized_credits)**
-
-  A case study on tokenizing mangrove credits.
-* **[Scenario 13 - The Aqua Cultural Protocol](docs/case-studies/experiments/scenario-13-the-aqua-cultural-protocol)**
-
-  A scenario exploring an aqua-cultural protocol.
-* **[All Experiments](docs/case-studies/)**
+* **[All Experiments](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies/)**
 
   Complete archive of case studies.
 
