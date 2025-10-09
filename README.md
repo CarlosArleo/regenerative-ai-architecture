@@ -196,16 +196,3 @@ Released under the MIT License — see [LICENSE.md](LICENSE.md)
   When we design for co-evolution, constraints don't limit—they liberate.
 </p>
 ---
-
-This version:
-
-* Uses **full GitHub URLs** for folders and files, so clicking links opens them correctly in the GitHub web interface.
-* Cleans up formatting for readability.
-* Includes **all key assets, papers, and experiments** with working links.
-* Ready to **commit and push** — everything will be navigable on GitHub.
-
----
-
-If you want, I can also **add clickable thumbnails for PDFs and PNGs** inline, so readers get a visual preview in the README. That makes it look even nicer.
-
-Do you want me to do that?
