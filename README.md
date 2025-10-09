@@ -80,27 +80,14 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 * **[The Tale of Three AIs](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies/experiments/The%20Tale%20of%20Three%20AIs)**
 
   Comparative validation of Constitutional vs. full WFF models.
-* **[DAO 3.0 - A Verifiable Blueprint](https://github.com/CarlosArleo/Living-Systems-Data-Room/tree/main/docs/case-studies/experiments/DAO%203.0%20-%20A%20Verifiable%20Blueprint)**
-
-  A blueprint for a verifiable, constitution-based DAO.
-* **[EUI City-to-City Exchange Demonstration](https://github.com/CarlosArleo/Living-Systems-Data-Room/tree/main/docs/case-studies/experiments/EUI%20City-to-City%20Exchange%20Demonstration)**
-
-  A demonstration of the WFF in an EUI city-to-city exchange.
-* **[Mangrove Tokenized Credits](https://github.com/CarlosArleo/Living-Systems-Data-Room/tree/main/docs/case-studies/experiments/mangrove_tokenized_credits)**
-
-  A case study on tokenizing mangrove credits.
-* **[Scenario 13 - The Aqua Cultural Protocol](https://github.com/CarlosArleo/Living-Systems-Data-Room/tree/main/docs/case-studies/experiments/scenario-13-the-aqua-cultural-protocol)**
-
-  A scenario exploring an aqua-cultural protocol.
 * **[All Experiments](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies/)**
 
   Complete archive of case studies.
 
 ### Example Files
 
-<pre class="overflow-visible!" data-start="4830" data-end="5217"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-markdown"><span><span>-</span><span> [</span><span>Genesis Protocol Analysis</span><span>](</span><span>https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/case-studies/experiments/The%20Genesis%20Protocol/analysis.md</span><span>)
-</span><span>-</span><span> [</span><span>Tale of Three AIs Main Analysis</span><span>](</span><span>https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/case-studies/experiments/The%20Tale%20of%20Three%20AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md</span><span>)
-</span></span></code></div></div></pre>
+[Genesis Protocol Analysis](`<span>`https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/case-studies/experiments/The%20Genesis%20Protocol/analysis.md`<span>`)
+[Tale of Three AIs Main Analysis](`<span>`https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/case-studies/experiments/The%20Tale%20of%20Three%20AIs/01_ANALYSIS_The_Tale_of_Three_AIs.md`<span>`)
 
 ---
 
