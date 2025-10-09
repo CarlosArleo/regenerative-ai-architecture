@@ -61,7 +61,6 @@
 
   > **"A sophisticated extractive actor could comply with every binding commitment... while simultaneously working through external political channels to demobilize, defund, or delegitimize the very coalition on which the framework's long-term success depends."**
   >
-
 * **Timestamp** **11:47:07** **-** **11:48:05** **(Iteration 10 - Final Synthesis):** **In the final, decisive move, the system corrects this last flaw. It invents the** **"Political Non-Interference Covenant" (**PP_01_COVENANT**)** **and, crucially, the** **"Delegated Enforcement Authority" (**PP_03_ENFORCEMENT**)**. This final piece hard-wires the activists' political struggle directly into the automated enforcement logic. A verified report of political interference from the coalition **is now treated as a compliance failure**, triggering the dead man's switch. The system achieves a **100%** **score and converges.**
 
 ### 3. Hypothesis Validation

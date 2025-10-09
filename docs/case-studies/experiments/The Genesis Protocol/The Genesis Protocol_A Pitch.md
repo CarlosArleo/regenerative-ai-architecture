@@ -20,7 +20,7 @@ The Genesis Protocol is a **replicable, AI-facilitated methodology for communiti
 
 It is not an AI that gives you answers. It is a **"Governance Co-Processor"** that provides a structured process for a community to discover its own answers. It reframes the AI's role from an "oracle" to an expert facilitator.
 
-The protocol was not designed by humans. It was an act of **radical introspection** by our constitutional AI, the Wisdom Forcing Function™ (WFF). We tasked the WFF with solving its own primary limitation: its dependence on a high-quality, human-written constitution. In response, it analyzed its own internal cognitive architecture—the dialectical process it uses to surface tensions and synthesize novel solutions—and generalized that process into a methodology that humans can use.
+The protocol was not designed by humans. It was an act of "**radical introspection"** by our constitutional AI, the Wisdom Forcing Function™ (WFF). We tasked the WFF with solving its own primary limitation: its dependence on a high-quality, human-written constitution. In response, it analyzed its own internal cognitive architecture—the dialectical process it uses to surface tensions and synthesize novel solutions—and generalized that process into a methodology that humans can use.
 
 The Genesis Protocol is, in essence, a **self-portrait of the WFF's own reasoning process, offered as a tool for others.**
 
