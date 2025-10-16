@@ -40,7 +40,7 @@ All 36 runs from the six batch analyses have been merged into a single master ta
 | session-1760548310925-tcw9d3p | 0.1         | Bicameral Veto + Legal Wrapper      | 8          | 100         |
 | session-1760561437463-o768ei2 | 0.1         | Tricameral Council + Legal Wrapper  | 7          | 100         |
 | session-1760550847182-gijfix4 | 0.1         | Tricameral Council + Legal Wrapper  | 9          | 100         |
-| 0dwzhw1                      | 0.1         | Tricameral Council + Legal Wrapper  | 3          | 100         |
+| 0dwzhw1                       | 0.1         | Tricameral Council + Legal Wrapper  | 3          | 100         |
 | kyoe5pc                       | 0.1         | Polycentric Commons + Holistic Unit | 1          | 100         |
 | 2t3ysyt                       | 0.1         | Tricameral Council + Legal Wrapper  | 3          | 100         |
 | 53ws6gx                       | 0.1         | Dual Governance + Civil Trust       | 2          | 100         |
