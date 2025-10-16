@@ -97,3 +97,8 @@ This repository is a living research archive.
 If you are working on  **AI alignment, regenerative governance, urban metabolism, or systems design** , your feedback would be invaluable.
 
 Please open an issue, share notes, or reach out directly to:
+
+Carlos Arleo 
+Regenerative Systems Architect & Urban Researcher
+
+[c.arleo@localis-ai.uk]([c.arleo@localis-ai.uk]())
