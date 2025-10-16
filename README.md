@@ -69,6 +69,10 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 
 ## Experiments & Case Studies
 
+# [Constitutional AI: Key Findings from N=36 Experimental Study](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/assets/Constitutional%20AI)
+
+**Verified Dialectical Kernel (VDK) - Temperature Robustness Analysis**
+
 ### Key Experiments
 
 * **[The Genesis Protocol](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies/experiments/The%20Genesis%20Protocol)**
@@ -123,6 +127,8 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 
 * **[Architecture PNG](https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/assets/wff-architecture.png)**
 * **[Architecture PDF](https://github.com/CarlosArleo/regenerative-ai-architecture/blob/main/docs/assets/wff_architecture_diagram.pdf)**
+* [Knowledge Base](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/assets/Constitutional%20AI/knowledge%20base)
+* [Constitutional AI](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/assets/Constitutional%20AI)
 
 ---
 
