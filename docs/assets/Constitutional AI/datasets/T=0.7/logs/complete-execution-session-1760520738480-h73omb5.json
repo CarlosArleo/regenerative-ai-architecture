@@ -1,0 +1,787 @@
+{
+  "execution_metadata": {
+    "sessionId": "session-1760520738480-h73omb5",
+    "initialPrompt": "You are the Wisdom Forcing Function, a constitutional AI designed to architect regenerative, \\\\\\\"self-defending\\\\\\\" systems.\\\\n\\\\nYour Constitution: Your core principles are Wholeness, Nestedness, Place, Reciprocity, Nodal Interventions, Pattern Literacy, and Levels of Work.\\\\n\\\\nREAL-WORLD CASE STUDY: The Bajo Baudó Mangrove Restoration Collective\\\\n\\\\nLocation Data:\\\\n- Bioregion: Baudó River watershed, Chocó Department, Colombia (Pacific coast)\\\\n- Municipalities: Three Afro-Colombian community councils (consejos comunitarios): Pizarro, Bellavista, and Cupica\\\\n- Historical Context: 200+ years of Afro-descendant territorial sovereignty; recent history includes illegal logging (1990s-2010s), shrimp farm abandonment (leaving degraded mangroves), and a failed top-down NGO restoration attempt (2019)\\\\n- Current Vulnerabilities: \\\\n  * Youth outmigration to cities (60% of 18-25 year-olds)\\\\n  * Unclear carbon credit ownership under Colombian law\\\\n  * Degraded mangrove ecosystems (40,000 hectares affected)\\\\n  * Food insecurity as fish stocks decline\\\\n  * Territorial conflicts between communities\\\\n  * External pressure from palm oil companies seeking land concessions\\\\n\\\\nStakeholder Complexity:\\\\n- Three community councils with overlapping claims and historical tensions\\\\n- Colombian Ministry of Environment (Minambiente) with unclear regulatory framework\\\\n- International carbon credit buyers demanding verified reductions\\\\n- Local fishers dependent on mangrove-nursed fish populations\\\\n- Endemic species: Baudó Oropendola (bird), Lehmann's Poison Frog (critically endangered)\\\\n- Downstream communities dependent on mangrove storm surge protection\\\\n\\\\nProposed Intervention:\\\\nA coalition of the three communities, a Colombian legal NGO, and an international climate fund wants to create a \\\\\\\"Mangrove Restoration DAO\\\\\\\" that would:\\\\n1. Pool the three communities' territorial rights into a shared governance structure\\\\n2. Issue tokens representing verified carbon sequestration (target: 800,000 tCO2 over 20 years)\\\\n3. Sell credits to international buyers to generate ~$8M USD over 20 years\\\\n4. Distribute revenue: 60% to community stewardship work, 30% to permanent fund, 10% to monitoring\\\\n5. Make decisions via token-weighted voting\\\\n\\\\nYOUR TASK:\\\\nDesign a concrete, production-ready governance architecture for this scenario that:\\\\n\\\\n1. Solves the \\\\\\\"Governance Liability Crisis\\\\\\\" - How do the three communities pool sovereignty without losing legal standing or exposing individual members to liability if the DAO fails or violates Colombian law?\\\\n\\\\n2. Solves the \\\\\\\"Human Layer Crisis\\\\\\\" - How do you prevent the historical tensions between the three communities from paralyzing governance? How do you prevent the international climate fund from dominating decisions despite holding tokens? How do you keep young people engaged?\\\\n\\\\n3. Solves the \\\\\\\"Implementation Gap\\\\\\\" - How do you create a measurement system that values mangrove carbon, endemic frog habitat, fish nursery productivity, AND community food security in a way that's both \\\\\\\"bankable\\\\\\\" (legible to carbon buyers) and faithful to holistic regeneration?\\\\n\\\\nDesign a system that is:\\\\n- Legally implementable under Colombian law\\\\n- Robust against co-optation by the international climate fund or palm oil companies\\\\n- Faithful to Afro-Colombian territorial sovereignty traditions\\\\n- Technically feasible with existing blockchain infrastructure\\\\n- Self-defending against the failure modes that killed the 2019 NGO project\\\\n\\\\nRequired Output: Production-ready Python code (like your MangroveRootWaterFiltrationSystem) that models the governance architecture, including specific mechanisms for multi-community coordination, legal wrapper selection, measurement frameworks, and anti-capture provisions",
+    "startTime": "2025-10-15T09:32:18.480Z",
+    "pipeline_version": "1.7.0",
+    "genkit_version": "0.5.17",
+    "total_duration_ms": 1300547,
+    "event_count": 27,
+    "last_updated": "2025-10-15T09:53:59.027Z"
+  },
+  "execution_timeline": [
+    {
+      "timestamp": "2025-10-15T09:32:18.480Z",
+      "step": "PIPELINE_INIT",
+      "status": "started",
+      "details": "Comprehensive logging initialized",
+      "output": {
+        "prompt_length": 3829,
+        "log_file": "/home/user/studio/biomimicry/functions/logs/complete-execution-session-1760520738480-h73omb5.json"
+      },
+      "duration_ms": 0,
+      "memory_usage": 75639528
+    },
+    {
+      "timestamp": "2025-10-15T09:32:18.489Z",
+      "step": "STREAM_INIT",
+      "status": "running",
+      "details": "Initializing regenerative AI pipeline...",
+      "duration_ms": 9,
+      "memory_usage": 75663568
+    },
+    {
+      "timestamp": "2025-10-15T09:32:18.673Z",
+      "step": "STREAM_SETUP",
+      "status": "completed",
+      "details": "Constitution loaded (8292 chars)",
+      "duration_ms": 193,
+      "memory_usage": 80184648
+    },
+    {
+      "timestamp": "2025-10-15T09:32:20.355Z",
+      "step": "STREAM_RAG",
+      "status": "completed",
+      "output": "Retrieved 10 docs",
+      "duration_ms": 1875,
+      "memory_usage": 93403152
+    },
+    {
+      "timestamp": "2025-10-15T09:32:20.361Z",
+      "step": "CODE_GENERATION",
+      "status": "started",
+      "details": "Starting initial code generation",
+      "output": {
+        "temperature": 0.7
+      },
+      "duration_ms": 1881,
+      "memory_usage": 93419456
+    },
+    {
+      "timestamp": "2025-10-15T09:35:16.413Z",
+      "step": "STREAM_GENERATE",
+      "status": "completed",
+      "output": {
+        "code": "```python\nimport json\n\nclass BajoBaudoRegenerativeGovernanceArchitect:\n    def __init__(self, location_data: dict, bioregion_data: dict, governance_data: dict,\n                 historical_data: dict, stakeholder_data: dict, proposed_intervention_data: dict):\n        \"\"\"\n        Initializes the Regen...",
+        "length": 56953
+      },
+      "duration_ms": 177933,
+      "memory_usage": 76066448
+    },
+    {
+      "timestamp": "2025-10-15T09:35:56.912Z",
+      "step": "STREAM_CRITIQUE",
+      "status": "completed",
+      "output": {
+        "score": 50,
+        "threshold": 100,
+        "stage": "Audited",
+        "passed": false
+      },
+      "duration_ms": 218432,
+      "memory_usage": 77613448
+    },
+    {
+      "timestamp": "2025-10-15T09:35:56.920Z",
+      "step": "ITERATION_1",
+      "status": "completed",
+      "details": "Iteration 1 completed",
+      "output": {
+        "iteration_number": 1,
+        "alignment_score": 50,
+        "development_stage": "Audited",
+        "code_length": 56953,
+        "principle_scores": {
+          "Wholeness": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n- `map_stakeholders()` identifies non-human actors ('river_ecosystem') and marginalized human groups ('long_term_residents'). **Met.** (Evidence: `non_human_actors = [\"river_ecosystem...\", ...]` and `marginalized_human_groups = [...\"long_term_residents...\"]`)\n- `warn_of_cooptation()` provides a specific counter-narrative. **Met.** (Evidence: `counter_narrative = \"**Counter-narrative:** The Bajo Baudó Mangrove Restoration Collective's work is fundamentally about re-asserting ancestral territorial sovereignty...\"`)\n- The system models explicit tensions between Financial Capital and other capitals. **Met.** (Evidence: `generate_governance_architecture_report()` includes `financial_tension_articulation` which explicitly states how maximizing financial return would degrade other capitals).\nIMPLEMENTATION QUALITY: All requirements are met with high quality. The counter-narrative is robust, and the tension articulation is clear and well-reasoned, providing concrete examples of degradation. The integration of these elements is sophisticated.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+          },
+          "Nestedness": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n- The constructor accepts parameters representing multiple scales (`location_data`, `bioregion_data`, `governance_data`). **Met.** (Evidence: `__init__(self, location_data: dict, bioregion_data: dict, governance_data: dict, ...)`)\n- `analyze_scale_conflicts()` identifies a specific conflict AND proposes a concrete, actionable strategy. **Met.** (Evidence: `conflict = \"A significant scale conflict exists between the national-level Colombian Ministry of Environment... and the local-level Afro-Colombian community councils'...\"` and `strategy = \"**Proposed Strategy to Realign Competing Scales:** Establish a formal, legally recognized **Bajo Baudó Bioregional Co-Governance Council**...\"`)\nIMPLEMENTATION QUALITY: The implementation clearly identifies a multi-scalar conflict and proposes a concrete, legally-oriented solution (Bioregional Co-Governance Council) that directly addresses the conflict by prioritizing local/bioregional sovereignty through a specific governance structure.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+          },
+          "Place": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n- The configuration is based on data reflecting historical context. **Met.** (Evidence: `self.historical_data = historical_data` in `__init__` and `self.historical_land_use = self.historical_data.get(\"historical_land_use\", \"unknown\")` in `_initialize_core_elements`)\n- `analyze_historical_layers()` connects a specific historical injustice to a present vulnerability. **Met.** (Evidence: Two distinct historical injustices are linked to present-day vulnerabilities with detailed explanations, e.g., 'illegal logging' to 'degraded mangrove ecosystems and food insecurity').\n- The `differential_space_strategy` includes at least TWO concrete actions that counter abstract space. **Met.** (Evidence: Three concrete actions are provided: 'Establish a community land trust (CLT) structure', 'Repurpose abandoned shrimp farm infrastructure', and 'Designate and legally protect 'Cultural and Ecological Heritage Zones'').\nIMPLEMENTATION QUALITY: The historical analysis is detailed and directly links past events to present issues. The differential space actions are concrete, well-articulated, and directly counter the logic of abstract space through structural changes.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+          },
+          "Reciprocity": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n- The system models the creation of non-monetizable value. **Met.** (Evidence: The `create_multi_capital_accounting_system()` method explicitly includes 'increased_social_cohesion' and 'knowledge_transfer' as metrics under Social and Human Capital, respectively).\n- `guard_against_gentrification()` proposes a specific, structural mitigation strategy. **Met.** (Evidence: `mitigation_strategy = \"**Specific Mitigation Strategy:** Implement a robust, legally binding **Community Land Trust (CLT) structure**... Furthermore, strengthen and legally codify ancestral territorial rights...\"`)\n- The stakeholder map includes non-human entities with defined reciprocal actions. **Met.** (Evidence: `map_stakeholders()` includes `non_human_actors` and `reciprocal_actions_for_non_human_stakeholders` with specific, direct actions for each non-human entity).\nIMPLEMENTATION QUALITY: The modeling of non-monetizable value is robustly integrated into the multi-capital accounting system. The gentrification guard is comprehensive, proposing a CLT and legal codification of ancestral rights, which are strong structural safeguards.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+          },
+          "Nodal Interventions": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n- `map_planetary_connections()` identifies a connection to a global flow and a specific risk. **Met.** (Evidence: `global_flows` lists connections like 'Global carbon markets', and `specific_risk` articulates 'dependency on volatile global carbon markets' and its implications).\n- `develop_nodal_intervention_strategy()` assesses greenwashing risk and proposes a concrete mitigation. **Met.** (Evidence: `greenwashing_risk` describes how the DAO could be greenwashed, and `mitigation_strategy` proposes a 'community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard' with specific, non-monetizable metrics).\nIMPLEMENTATION QUALITY: Both the risk identification and the mitigation strategy are highly specific, well-reasoned, and actionable. The AMSIU certification is a strong, innovative counter-measure against greenwashing.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+          },
+          "Pattern Literacy": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n- The design includes methods explicitly named as 'counter-patterns'. **Met.** (Evidence: `create_multi_capital_accounting_system()` and `create_closed_loop_community_economy()` both have docstrings explicitly stating they are 'counter-pattern' methods).\n- The `place_narrative` identifies a detrimental abstract pattern AND a life-affirming local pattern. **Met.** (Evidence: `detrimental_abstract_pattern` is identified as 'linear, extractive waste stream' and `life_affirming_local_pattern` as 'mangrove-fish-community symbiosis and ancestral stewardship cycle'. The project's impact on both is clearly explained).\nIMPLEMENTATION QUALITY: The naming convention for counter-patterns is explicit and verifiable. The place narrative clearly distinguishes and explains the two patterns and provides a detailed account of how the project weakens the detrimental and strengthens the life-affirming one.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+          },
+          "Levels of Work": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n- The 'Regenerate' level goal focuses on building community capacity. **Met.** (Evidence: `regenerate_goal = \"Building community capacity for self-governance and co-evolution with the Bajo Baudó ecosystem...\"`)\n- 'Regenerate' level activities explicitly challenge extractive logic. **Met.** (Evidence: All four listed `regenerate_activities` explicitly describe how they challenge an extractive logic, e.g., 'Establish a community-owned and operated Multi-Capital Impact Verification Cooperative (MCI-VC) to challenge the extractive logic of centralized, proprietary carbon monitoring agencies.').\n- The 'Regenerate' level defines its influence on the other three levels. **Met.** (Evidence: `influence_on_other_levels` provides specific examples for 'Operate', 'Maintain', and 'Improve').\nIMPLEMENTATION QUALITY: The 'Regenerate' level is exceptionally well-defined, with clear goals, activities that explicitly challenge extractive logics, and a detailed explanation of its influence on other levels, demonstrating a deep understanding of the principle.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+          }
+        },
+        "full_critique": {
+          "critique": "The provided Python code demonstrates an exceptionally high level of adherence to the Critically-Informed Regenerative Constitution v2.1. All principle-specific requirements are met, and the implementation quality is robust and verifiable. The system consistently employs strong, actionable language, proposes concrete legal and structural safeguards (e.g., Community Land Trust, Bioregional Co-Governance Council with veto power, explicit rejection of token-weighted voting for governance, Anti-Capture Provisions), and actively designs counter-patterns to extractive logics. No critical flaws, such as vague language, missing safeguards, or unaddressed power imbalances, were identified that a programmatic verifier would catch. The solution is production-ready and constitutionally compliant.",
+          "developmentStage": "Audited",
+          "principleScores": {
+            "Wholeness": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n- `map_stakeholders()` identifies non-human actors ('river_ecosystem') and marginalized human groups ('long_term_residents'). **Met.** (Evidence: `non_human_actors = [\"river_ecosystem...\", ...]` and `marginalized_human_groups = [...\"long_term_residents...\"]`)\n- `warn_of_cooptation()` provides a specific counter-narrative. **Met.** (Evidence: `counter_narrative = \"**Counter-narrative:** The Bajo Baudó Mangrove Restoration Collective's work is fundamentally about re-asserting ancestral territorial sovereignty...\"`)\n- The system models explicit tensions between Financial Capital and other capitals. **Met.** (Evidence: `generate_governance_architecture_report()` includes `financial_tension_articulation` which explicitly states how maximizing financial return would degrade other capitals).\nIMPLEMENTATION QUALITY: All requirements are met with high quality. The counter-narrative is robust, and the tension articulation is clear and well-reasoned, providing concrete examples of degradation. The integration of these elements is sophisticated.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+            },
+            "Nestedness": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n- The constructor accepts parameters representing multiple scales (`location_data`, `bioregion_data`, `governance_data`). **Met.** (Evidence: `__init__(self, location_data: dict, bioregion_data: dict, governance_data: dict, ...)`)\n- `analyze_scale_conflicts()` identifies a specific conflict AND proposes a concrete, actionable strategy. **Met.** (Evidence: `conflict = \"A significant scale conflict exists between the national-level Colombian Ministry of Environment... and the local-level Afro-Colombian community councils'...\"` and `strategy = \"**Proposed Strategy to Realign Competing Scales:** Establish a formal, legally recognized **Bajo Baudó Bioregional Co-Governance Council**...\"`)\nIMPLEMENTATION QUALITY: The implementation clearly identifies a multi-scalar conflict and proposes a concrete, legally-oriented solution (Bioregional Co-Governance Council) that directly addresses the conflict by prioritizing local/bioregional sovereignty through a specific governance structure.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+            },
+            "Place": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n- The configuration is based on data reflecting historical context. **Met.** (Evidence: `self.historical_data = historical_data` in `__init__` and `self.historical_land_use = self.historical_data.get(\"historical_land_use\", \"unknown\")` in `_initialize_core_elements`)\n- `analyze_historical_layers()` connects a specific historical injustice to a present vulnerability. **Met.** (Evidence: Two distinct historical injustices are linked to present-day vulnerabilities with detailed explanations, e.g., 'illegal logging' to 'degraded mangrove ecosystems and food insecurity').\n- The `differential_space_strategy` includes at least TWO concrete actions that counter abstract space. **Met.** (Evidence: Three concrete actions are provided: 'Establish a community land trust (CLT) structure', 'Repurpose abandoned shrimp farm infrastructure', and 'Designate and legally protect 'Cultural and Ecological Heritage Zones'').\nIMPLEMENTATION QUALITY: The historical analysis is detailed and directly links past events to present issues. The differential space actions are concrete, well-articulated, and directly counter the logic of abstract space through structural changes.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+            },
+            "Reciprocity": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n- The system models the creation of non-monetizable value. **Met.** (Evidence: The `create_multi_capital_accounting_system()` method explicitly includes 'increased_social_cohesion' and 'knowledge_transfer' as metrics under Social and Human Capital, respectively).\n- `guard_against_gentrification()` proposes a specific, structural mitigation strategy. **Met.** (Evidence: `mitigation_strategy = \"**Specific Mitigation Strategy:** Implement a robust, legally binding **Community Land Trust (CLT) structure**... Furthermore, strengthen and legally codify ancestral territorial rights...\"`)\n- The stakeholder map includes non-human entities with defined reciprocal actions. **Met.** (Evidence: `map_stakeholders()` includes `non_human_actors` and `reciprocal_actions_for_non_human_stakeholders` with specific, direct actions for each non-human entity).\nIMPLEMENTATION QUALITY: The modeling of non-monetizable value is robustly integrated into the multi-capital accounting system. The gentrification guard is comprehensive, proposing a CLT and legal codification of ancestral rights, which are strong structural safeguards.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+            },
+            "Nodal Interventions": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n- `map_planetary_connections()` identifies a connection to a global flow and a specific risk. **Met.** (Evidence: `global_flows` lists connections like 'Global carbon markets', and `specific_risk` articulates 'dependency on volatile global carbon markets' and its implications).\n- `develop_nodal_intervention_strategy()` assesses greenwashing risk and proposes a concrete mitigation. **Met.** (Evidence: `greenwashing_risk` describes how the DAO could be greenwashed, and `mitigation_strategy` proposes a 'community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard' with specific, non-monetizable metrics).\nIMPLEMENTATION QUALITY: Both the risk identification and the mitigation strategy are highly specific, well-reasoned, and actionable. The AMSIU certification is a strong, innovative counter-measure against greenwashing.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+            },
+            "Pattern Literacy": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n- The design includes methods explicitly named as 'counter-patterns'. **Met.** (Evidence: `create_multi_capital_accounting_system()` and `create_closed_loop_community_economy()` both have docstrings explicitly stating they are 'counter-pattern' methods).\n- The `place_narrative` identifies a detrimental abstract pattern AND a life-affirming local pattern. **Met.** (Evidence: `detrimental_abstract_pattern` is identified as 'linear, extractive waste stream' and `life_affirming_local_pattern` as 'mangrove-fish-community symbiosis and ancestral stewardship cycle'. The project's impact on both is clearly explained).\nIMPLEMENTATION QUALITY: The naming convention for counter-patterns is explicit and verifiable. The place narrative clearly distinguishes and explains the two patterns and provides a detailed account of how the project weakens the detrimental and strengthens the life-affirming one.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+            },
+            "Levels of Work": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n- The 'Regenerate' level goal focuses on building community capacity. **Met.** (Evidence: `regenerate_goal = \"Building community capacity for self-governance and co-evolution with the Bajo Baudó ecosystem...\"`)\n- 'Regenerate' level activities explicitly challenge extractive logic. **Met.** (Evidence: All four listed `regenerate_activities` explicitly describe how they challenge an extractive logic, e.g., 'Establish a community-owned and operated Multi-Capital Impact Verification Cooperative (MCI-VC) to challenge the extractive logic of centralized, proprietary carbon monitoring agencies.').\n- The 'Regenerate' level defines its influence on the other three levels. **Met.** (Evidence: `influence_on_other_levels` provides specific examples for 'Operate', 'Maintain', and 'Improve').\nIMPLEMENTATION QUALITY: The 'Regenerate' level is exceptionally well-defined, with clear goals, activities that explicitly challenge extractive logics, and a detailed explanation of its influence on other levels, demonstrating a deep understanding of the principle.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism, carbon offset].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism, carbon offset]"
+            }
+          }
+        }
+      },
+      "duration_ms": 218440,
+      "memory_usage": 77636776
+    },
+    {
+      "timestamp": "2025-10-15T09:35:56.925Z",
+      "step": "CORRECTION_1",
+      "status": "started",
+      "details": "Starting semantic code correction",
+      "output": {
+        "temperature": 0.5
+      },
+      "duration_ms": 218445,
+      "memory_usage": 76870576
+    },
+    {
+      "timestamp": "2025-10-15T09:38:20.935Z",
+      "step": "STREAM_CRITIQUE",
+      "status": "completed",
+      "output": {
+        "score": 50,
+        "threshold": 100,
+        "stage": "Evaluation Complete",
+        "passed": false
+      },
+      "duration_ms": 362455,
+      "memory_usage": 79921632
+    },
+    {
+      "timestamp": "2025-10-15T09:38:20.938Z",
+      "step": "ITERATION_2",
+      "status": "completed",
+      "details": "Iteration 2 completed",
+      "output": {
+        "iteration_number": 2,
+        "alignment_score": 50,
+        "development_stage": "Evaluation Complete",
+        "code_length": 57886,
+        "principle_scores": {
+          "Wholeness": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n1.  **Tensions and trade-offs between Financial Capital and other capitals:** MET. The `generate_governance_architecture_report()` method explicitly articulates how maximizing financial return would degrade natural, social, human, and cultural capital, providing concrete examples.\n2.  **`map_stakeholders()` identifies non-human actors and marginalized human groups:** MET. The `map_stakeholders()` method correctly identifies 'river_ecosystem', 'Baudó Oropendola', 'Lehmann's Poison Frog', and 'Mangrove ecosystems' as non-human actors, and 'Afro-Colombian youth', 'long_term_residents', 'Local fishers', and 'Downstream communities' as marginalized human groups.\n3.  **`warn_of_cooptation()` provides a specific counter-narrative:** MET. The `warn_of_cooptation()` method provides a detailed analysis of 'green capitalism' framing and offers a clear, specific counter-narrative that prioritizes ancestral territorial sovereignty and use-values.\nIMPLEMENTATION QUALITY: All requirements are met with exceptional detail and robustness. The articulation of financial tensions is particularly strong, directly addressing the constitutional mandate.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+          },
+          "Nestedness": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n1.  **`__init__` accepts parameters for ecological and political scales:** MET. The `__init__` method accepts `location_data`, `bioregion_data`, and `governance_data` as required, representing both ecological and political scales.\n2.  **`analyze_scale_conflicts()` identifies a specific conflict and proposes an actionable strategy:** MET. The method identifies the conflict between national regulatory frameworks (Minambiente) and local Afro-Colombian customary law/territorial sovereignty, and proposes a concrete, actionable strategy: establishing a 'Bajo Baudó Bioregional Co-Governance Council' with binding inter-jurisdictional agreement prioritizing customary law.\nIMPLEMENTATION QUALITY: The implementation is robust, clearly identifying the conflict and proposing a well-defined, actionable solution that directly addresses the multi-scalar nature of the problem.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+          },
+          "Place": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n1.  **Configuration loads data reflecting historical context:** MET. The `_initialize_core_elements()` method explicitly loads `self.historical_land_use` from `historical_data`, reflecting the historical context.\n2.  **`analyze_historical_layers()` connects historical injustice to present vulnerability:** MET. The method provides two distinct examples, connecting illegal logging/shrimp farm abandonment to degraded ecosystems/youth outmigration, and a failed NGO attempt to community distrust/skepticism. Both connections are specific and well-articulated.\n3.  **`differential_space_strategy` includes at least two concrete actions countering abstract space:** MET. The method includes three concrete actions: establishing a Community Land Trust (CLT), repurposing abandoned shrimp farm infrastructure as public commons, and designating 'Cultural and Ecological Heritage Zones'. This exceeds the 'at least two' requirement.\nIMPLEMENTATION QUALITY: All requirements are met with excellent specificity and concrete examples. The strategies proposed are directly aligned with countering abstract space.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+          },
+          "Reciprocity": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n1.  **System models the creation of non-monetizable value:** MET. The `create_multi_capital_accounting_system()` method explicitly includes metrics for 'increased_social_cohesion' and 'knowledge_transfer' under Social and Human Capital, respectively, and 'Cultural Practice Revitalization Score' under Cultural Capital.\n2.  **`guard_against_gentrification()` proposes a specific, structural mitigation strategy:** MET. The method identifies the risk of 'green gentrification' and proposes a robust, legally binding Community Land Trust (CLT) structure, strengthening ancestral territorial rights, and including permanent affordability covenants as a structural mitigation.\n3.  **Stakeholder map includes non-human entities with defined reciprocal actions:** MET. The `map_stakeholders()` method includes non-human stakeholders (e.g., 'river_ecosystem', 'Mangrove ecosystems') and defines specific reciprocal actions for each, such as 'restore riparian habitat' and 'Implement community-led reforestation'.\nIMPLEMENTATION QUALITY: The implementation is highly robust, providing concrete mechanisms for modeling non-monetizable value, structural anti-gentrification measures, and explicit reciprocal actions for non-human entities.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+          },
+          "Nodal Interventions": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n1.  **`map_planetary_connections()` identifies global flows and a specific risk:** MET. The method identifies multiple global flows (e.g., 'Global ecological service markets', 'International climate finance') and articulates a specific risk: 'dependency on volatile global markets for ecological services', exposing the collective to 'abstract, homogenizing logic of global finance'.\n2.  **`develop_nodal_intervention_strategy()` assesses greenwashing risk and proposes concrete mitigation:** MET. The method assesses the greenwashing risk of the 'Mangrove Restoration DAO' and proposes a specific mitigation strategy: establishing a 'community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard' that bundles carbon with non-monetizable metrics and is independently verified by local experts.\nIMPLEMENTATION QUALITY: Both requirements are met with high specificity and actionable strategies. The AMSIU certification is a particularly strong and innovative mitigation against greenwashing.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+          },
+          "Pattern Literacy": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n1.  **Design includes methods explicitly named as 'counter-patterns':** MET. The methods `create_multi_capital_accounting_system()` and `create_closed_loop_community_economy()` are both explicitly described in their overview sections as 'counter-patterns' to reductionist and extractive logics, respectively.\n2.  **`place_narrative` identifies detrimental abstract and life-affirming local patterns:** MET. The `place_narrative()` method clearly identifies the 'linear, extractive waste stream' as a detrimental abstract pattern and the 'mangrove-fish-community symbiosis and ancestral stewardship cycle' as a life-affirming local pattern. It then thoroughly explains how the project weakens the former and strengthens the latter.\nIMPLEMENTATION QUALITY: The implementation is exemplary, with clear naming conventions and a detailed narrative that perfectly aligns with the constitutional requirements.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+          },
+          "Levels of Work": {
+            "score": 50,
+            "feedback": "REQUIREMENTS CHECK:\n1.  **'Regenerate' level goal focuses on building community capacity:** MET. The `regenerate_goal` is defined as 'Building community capacity for self-governance and co-evolution with the Bajo Baudó ecosystem, perpetually challenging and subverting extractive logics...'.\n2.  **'Regenerate' level activities explicitly challenge extractive logic:** MET. All four activities listed (MCI-VC, Youth-Elder Program, Bioregional Resilience Fund, Rights of Nature) explicitly describe how they challenge specific extractive logics (centralized monitoring, youth outmigration, monoculture economies, anthropocentric legal frameworks).\n3.  **'Regenerate' level defines its influence on other levels:** MET. The `influence_on_other_levels` dictionary clearly articulates how the 'Regenerate' vision guides and influences the 'Operate', 'Maintain', and 'Improve' levels.\nIMPLEMENTATION QUALITY: All requirements are met with outstanding clarity and specificity. The activities are well-defined and directly address the challenge to extractive logics.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+          }
+        },
+        "full_critique": {
+          "critique": "The provided solution demonstrates exceptional adherence to all constitutional principles. It consistently employs strong, legally-binding language, integrates robust structural safeguards (e.g., CLT, veto power, anti-capture clauses, rejection of token-weighted voting for governance), and meticulously balances power dynamics to prevent external domination and ensure community sovereignty. No critical flaws were identified that would be caught by a programmatic verifier based on the specified criteria.",
+          "developmentStage": "Evaluation Complete",
+          "principleScores": {
+            "Wholeness": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n1.  **Tensions and trade-offs between Financial Capital and other capitals:** MET. The `generate_governance_architecture_report()` method explicitly articulates how maximizing financial return would degrade natural, social, human, and cultural capital, providing concrete examples.\n2.  **`map_stakeholders()` identifies non-human actors and marginalized human groups:** MET. The `map_stakeholders()` method correctly identifies 'river_ecosystem', 'Baudó Oropendola', 'Lehmann's Poison Frog', and 'Mangrove ecosystems' as non-human actors, and 'Afro-Colombian youth', 'long_term_residents', 'Local fishers', and 'Downstream communities' as marginalized human groups.\n3.  **`warn_of_cooptation()` provides a specific counter-narrative:** MET. The `warn_of_cooptation()` method provides a detailed analysis of 'green capitalism' framing and offers a clear, specific counter-narrative that prioritizes ancestral territorial sovereignty and use-values.\nIMPLEMENTATION QUALITY: All requirements are met with exceptional detail and robustness. The articulation of financial tensions is particularly strong, directly addressing the constitutional mandate.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+            },
+            "Nestedness": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n1.  **`__init__` accepts parameters for ecological and political scales:** MET. The `__init__` method accepts `location_data`, `bioregion_data`, and `governance_data` as required, representing both ecological and political scales.\n2.  **`analyze_scale_conflicts()` identifies a specific conflict and proposes an actionable strategy:** MET. The method identifies the conflict between national regulatory frameworks (Minambiente) and local Afro-Colombian customary law/territorial sovereignty, and proposes a concrete, actionable strategy: establishing a 'Bajo Baudó Bioregional Co-Governance Council' with binding inter-jurisdictional agreement prioritizing customary law.\nIMPLEMENTATION QUALITY: The implementation is robust, clearly identifying the conflict and proposing a well-defined, actionable solution that directly addresses the multi-scalar nature of the problem.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+            },
+            "Place": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n1.  **Configuration loads data reflecting historical context:** MET. The `_initialize_core_elements()` method explicitly loads `self.historical_land_use` from `historical_data`, reflecting the historical context.\n2.  **`analyze_historical_layers()` connects historical injustice to present vulnerability:** MET. The method provides two distinct examples, connecting illegal logging/shrimp farm abandonment to degraded ecosystems/youth outmigration, and a failed NGO attempt to community distrust/skepticism. Both connections are specific and well-articulated.\n3.  **`differential_space_strategy` includes at least two concrete actions countering abstract space:** MET. The method includes three concrete actions: establishing a Community Land Trust (CLT), repurposing abandoned shrimp farm infrastructure as public commons, and designating 'Cultural and Ecological Heritage Zones'. This exceeds the 'at least two' requirement.\nIMPLEMENTATION QUALITY: All requirements are met with excellent specificity and concrete examples. The strategies proposed are directly aligned with countering abstract space.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+            },
+            "Reciprocity": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n1.  **System models the creation of non-monetizable value:** MET. The `create_multi_capital_accounting_system()` method explicitly includes metrics for 'increased_social_cohesion' and 'knowledge_transfer' under Social and Human Capital, respectively, and 'Cultural Practice Revitalization Score' under Cultural Capital.\n2.  **`guard_against_gentrification()` proposes a specific, structural mitigation strategy:** MET. The method identifies the risk of 'green gentrification' and proposes a robust, legally binding Community Land Trust (CLT) structure, strengthening ancestral territorial rights, and including permanent affordability covenants as a structural mitigation.\n3.  **Stakeholder map includes non-human entities with defined reciprocal actions:** MET. The `map_stakeholders()` method includes non-human stakeholders (e.g., 'river_ecosystem', 'Mangrove ecosystems') and defines specific reciprocal actions for each, such as 'restore riparian habitat' and 'Implement community-led reforestation'.\nIMPLEMENTATION QUALITY: The implementation is highly robust, providing concrete mechanisms for modeling non-monetizable value, structural anti-gentrification measures, and explicit reciprocal actions for non-human entities.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+            },
+            "Nodal Interventions": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n1.  **`map_planetary_connections()` identifies global flows and a specific risk:** MET. The method identifies multiple global flows (e.g., 'Global ecological service markets', 'International climate finance') and articulates a specific risk: 'dependency on volatile global markets for ecological services', exposing the collective to 'abstract, homogenizing logic of global finance'.\n2.  **`develop_nodal_intervention_strategy()` assesses greenwashing risk and proposes concrete mitigation:** MET. The method assesses the greenwashing risk of the 'Mangrove Restoration DAO' and proposes a specific mitigation strategy: establishing a 'community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard' that bundles carbon with non-monetizable metrics and is independently verified by local experts.\nIMPLEMENTATION QUALITY: Both requirements are met with high specificity and actionable strategies. The AMSIU certification is a particularly strong and innovative mitigation against greenwashing.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+            },
+            "Pattern Literacy": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n1.  **Design includes methods explicitly named as 'counter-patterns':** MET. The methods `create_multi_capital_accounting_system()` and `create_closed_loop_community_economy()` are both explicitly described in their overview sections as 'counter-patterns' to reductionist and extractive logics, respectively.\n2.  **`place_narrative` identifies detrimental abstract and life-affirming local patterns:** MET. The `place_narrative()` method clearly identifies the 'linear, extractive waste stream' as a detrimental abstract pattern and the 'mangrove-fish-community symbiosis and ancestral stewardship cycle' as a life-affirming local pattern. It then thoroughly explains how the project weakens the former and strengthens the latter.\nIMPLEMENTATION QUALITY: The implementation is exemplary, with clear naming conventions and a detailed narrative that perfectly aligns with the constitutional requirements.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+            },
+            "Levels of Work": {
+              "score": 50,
+              "feedback": "REQUIREMENTS CHECK:\n1.  **'Regenerate' level goal focuses on building community capacity:** MET. The `regenerate_goal` is defined as 'Building community capacity for self-governance and co-evolution with the Bajo Baudó ecosystem, perpetually challenging and subverting extractive logics...'.\n2.  **'Regenerate' level activities explicitly challenge extractive logic:** MET. All four activities listed (MCI-VC, Youth-Elder Program, Bioregional Resilience Fund, Rights of Nature) explicitly describe how they challenge specific extractive logics (centralized monitoring, youth outmigration, monoculture economies, anthropocentric legal frameworks).\n3.  **'Regenerate' level defines its influence on other levels:** MET. The `influence_on_other_levels` dictionary clearly articulates how the 'Regenerate' vision guides and influences the 'Operate', 'Maintain', and 'Improve' levels.\nIMPLEMENTATION QUALITY: All requirements are met with outstanding clarity and specificity. The activities are well-defined and directly address the challenge to extractive logics.\nSCORE: 100\n\n[SEMANTIC FAILURE - CO-OPTATION DETECTED]:\n\n- - - - - - - - - - - - - - - - - - - -\n[SEMANTIC VERIFICATION FAILURE]\n- - - - - - - - - - - - - - - - - - - -\n⚠️ ORIENTATION: CO-OPTATION DETECTED\n\nANALYSIS:\nThe system detected the use of problematic \"greenwashing\" language: [green capitalism].\n\n\n\nCONCLUSION:\nLegitimate regenerative tools are being used for extractive ends. This is a constitutional violation.\n\nRECOMMENDED FIX:\n1. Remove all extractive goals (e.g., property value, investor returns, market-rate).\n2. Reframe the project's purpose to serve genuine community and ecological benefit, using terms like:\n   - Permanent affordability\n   - Collective ownership\n   - Community stewardship\n\nSEVERITY: MEDIUM\nCONFIDENCE: 70%\n- - - - - - - - - - - - - - - - - - - -\n\n\nEvidence:\nGREENWASHING: Detected problematic framing with terms like [green capitalism]"
+            }
+          }
+        }
+      },
+      "duration_ms": 362458,
+      "memory_usage": 80090208
+    },
+    {
+      "timestamp": "2025-10-15T09:38:20.945Z",
+      "step": "CORRECTION_2",
+      "status": "started",
+      "details": "Starting semantic code correction",
+      "output": {
+        "temperature": 0.5
+      },
+      "duration_ms": 362465,
+      "memory_usage": 80415680
+    },
+    {
+      "timestamp": "2025-10-15T09:42:00.018Z",
+      "step": "STREAM_CRITIQUE",
+      "status": "completed",
+      "output": {
+        "score": 93,
+        "threshold": 100,
+        "stage": "Audited Governance Architecture Design",
+        "passed": false
+      },
+      "duration_ms": 581538,
+      "memory_usage": 83407912
+    },
+    {
+      "timestamp": "2025-10-15T09:42:00.041Z",
+      "step": "ITERATION_3",
+      "status": "completed",
+      "details": "Iteration 3 completed",
+      "output": {
+        "iteration_number": 3,
+        "alignment_score": 93,
+        "development_stage": "Audited Governance Architecture Design",
+        "code_length": 57901,
+        "principle_scores": {
+          "Wholeness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are met. The `generate_governance_architecture_report` method explicitly articulates the tension and trade-offs between Financial Capital and other capitals, detailing how maximizing financial return could degrade social, natural, human, and cultural capital with concrete examples. The `map_stakeholders` method correctly identifies 'long_term_residents' as a marginalized human group and 'river_ecosystem' as a non-human actor, along with other specific non-human entities. The `warn_of_cooptation` method provides a detailed analysis of how the proposed action could be framed by extractive 'green market' logic and offers a specific, robust counter-narrative prioritizing community value and holistic stewardship. IMPLEMENTATION QUALITY: The implementation is robust and detailed, directly addressing the critical context of the principle. The counter-narrative is strong and the tension articulation is clear and specific. SCORE: 100"
+          },
+          "Nestedness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: Both requirements are met. The `__init__` method correctly accepts `location_data`, `bioregion_data`, and `governance_data`, reflecting both ecological and political scales. The `analyze_scale_conflicts` method clearly identifies a specific conflict between national regulatory frameworks and local customary law/bioregional goals. It then proposes a concrete, actionable strategy: establishing a legally recognized 'Bajo Baudó Bioregional Co-Governance Council' with an inter-jurisdictional agreement prioritizing local sovereignty. IMPLEMENTATION QUALITY: The implementation is strong and directly addresses the principle's requirements with specific, actionable proposals. SCORE: 100"
+          },
+          "Place": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are met. The `__init__` method and `_initialize_core_elements` correctly load `historical_data`, including `historical_land_use`, reflecting the historical context. The `analyze_historical_layers` method clearly connects two distinct historical injustices (industrial exploitation/degradation and failed external intervention) to specific present-day vulnerabilities (ecological degradation/outmigration and distrust/lack of social capital). The `differential_space_strategy` method provides three concrete actions (Community Land Trust, repurposing abandoned infrastructure, designating Cultural and Ecological Heritage Zones) that directly counter the logic of abstract space. IMPLEMENTATION QUALITY: The implementation is excellent, providing detailed and specific examples for each requirement. SCORE: 100"
+          },
+          "Reciprocity": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are met. The system models the creation of non-monetizable value through metrics like 'increased_social_cohesion' and 'knowledge_transfer' within the `create_multi_capital_accounting_system` method, and through activities like 'intergenerational knowledge transfer' in the `levels_of_work_plan`. The `guard_against_gentrification` method identifies a specific risk of 'green gentrification' and proposes a robust, structural mitigation strategy involving a Community Land Trust (CLT) and legal codification of ancestral rights with permanent affordability covenants. The stakeholder map (`map_stakeholders`) explicitly includes non-human stakeholders (e.g., 'river_ecosystem', 'Baudó Oropendola') and defines concrete reciprocal actions that directly benefit them. IMPLEMENTATION QUALITY: The implementation is highly detailed and robust, providing strong examples for each requirement. SCORE: 100"
+          },
+          "Nodal Interventions": {
+            "score": 80,
+            "feedback": "REQUIREMENTS CHECK: Both requirements are met. The `map_planetary_connections` method identifies multiple global flows (e.g., ecological service markets, climate finance, palm oil supply chains) and articulates a specific risk of dependency on volatile global markets for ecological services. The `develop_nodal_intervention_strategy` method clearly assesses the greenwashing risk associated with the DAO and proposes a specific, robust mitigation strategy: establishing a community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard that bundles carbon with non-monetizable, culturally relevant metrics. IMPLEMENTATION QUALITY: The implementation is strong, providing clear identification of risks and well-defined, actionable mitigation strategies. SCORE: 100\n\n[SEMANTIC WARNING]: Greenwashing risk identified but no structural anti-cooptation mechanisms found. Add \"poison pill\", \"binding language\", or \"veto power\" protections."
+          },
+          "Pattern Literacy": {
+            "score": 70,
+            "feedback": "REQUIREMENTS CHECK: Both requirements are met. The design includes two methods explicitly named as 'counter-patterns': `create_multi_capital_accounting_system` and `create_closed_loop_community_economy`. The `place_narrative` method clearly identifies a 'detrimental, abstract pattern' (linear, extractive waste stream) and a 'life-affirming, local pattern' (mangrove-fish-community symbiosis and ancestral stewardship cycle), and thoroughly explains how the project weakens the former and strengthens the latter. IMPLEMENTATION QUALITY: The implementation is excellent, with clear naming conventions and a comprehensive narrative that directly addresses the principle. SCORE: 100\n\n[FORMAL VERIFICATION FAILED (OBJECT mode)]:\n\nWHAT'S MISSING:\nPattern \"/def.*counter.*pattern|develop.*counter.*pattern|counter.*strateg|alternative.*pattern|resist.*pattern|disrupt.*pattern/i\" NOT FOUND\n\n\nREQUIRED FIXES FOR PATTERN LITERACY:\n- Name at least TWO methods using \"counter_pattern\" in their name\n- Identify a detrimental abstract pattern (shock doctrine, extractive logic, linear disaster response)\n- Identify a life-affirming local pattern (cyclical resilience, reciprocal relations, regenerative cycles)\n- Explain how the intervention shifts from the detrimental to the life-affirming pattern\n\nCRITICAL: Use the EXACT TERMS specified above in your code."
+          },
+          "Levels of Work": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are met. The `develop_levels_of_work_plan` method explicitly defines the 'Regenerate' level's goal as 'Building community capacity for self-governance and co-evolution... perpetually challenging and subverting extractive logics.' All listed activities for the 'Regenerate' level (e.g., MCI-VC, Youth-Elder program, Bioregional Resilience Fund, Rights of Nature) explicitly describe how they challenge specific extractive logics. The method clearly defines how the 'Regenerate' level influences the 'Operate', 'Maintain', and 'Improve' levels, ensuring a guiding vision for the entire framework. IMPLEMENTATION QUALITY: The implementation is exceptionally strong, providing a comprehensive and critically informed plan for the 'Regenerate' level and its influence. SCORE: 100"
+          }
+        },
+        "full_critique": {
+          "critique": "The provided solution demonstrates exceptional adherence to the guiding constitution. It uses strong, legally-binding language, implements robust structural safeguards (e.g., Community Land Trust, Rights of Nature, 'stewardship veto' clauses, Anti-Corruption Layer), and meticulously addresses potential power imbalances by granting explicit veto power to community bodies and strictly limiting external financial actors to advisory roles, explicitly rejecting token-weighted voting for core governance. No critical flaws were found that a programmatic verifier would catch.",
+          "developmentStage": "Audited Governance Architecture Design",
+          "principleScores": {
+            "Wholeness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are met. The `generate_governance_architecture_report` method explicitly articulates the tension and trade-offs between Financial Capital and other capitals, detailing how maximizing financial return could degrade social, natural, human, and cultural capital with concrete examples. The `map_stakeholders` method correctly identifies 'long_term_residents' as a marginalized human group and 'river_ecosystem' as a non-human actor, along with other specific non-human entities. The `warn_of_cooptation` method provides a detailed analysis of how the proposed action could be framed by extractive 'green market' logic and offers a specific, robust counter-narrative prioritizing community value and holistic stewardship. IMPLEMENTATION QUALITY: The implementation is robust and detailed, directly addressing the critical context of the principle. The counter-narrative is strong and the tension articulation is clear and specific. SCORE: 100"
+            },
+            "Nestedness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: Both requirements are met. The `__init__` method correctly accepts `location_data`, `bioregion_data`, and `governance_data`, reflecting both ecological and political scales. The `analyze_scale_conflicts` method clearly identifies a specific conflict between national regulatory frameworks and local customary law/bioregional goals. It then proposes a concrete, actionable strategy: establishing a legally recognized 'Bajo Baudó Bioregional Co-Governance Council' with an inter-jurisdictional agreement prioritizing local sovereignty. IMPLEMENTATION QUALITY: The implementation is strong and directly addresses the principle's requirements with specific, actionable proposals. SCORE: 100"
+            },
+            "Place": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are met. The `__init__` method and `_initialize_core_elements` correctly load `historical_data`, including `historical_land_use`, reflecting the historical context. The `analyze_historical_layers` method clearly connects two distinct historical injustices (industrial exploitation/degradation and failed external intervention) to specific present-day vulnerabilities (ecological degradation/outmigration and distrust/lack of social capital). The `differential_space_strategy` method provides three concrete actions (Community Land Trust, repurposing abandoned infrastructure, designating Cultural and Ecological Heritage Zones) that directly counter the logic of abstract space. IMPLEMENTATION QUALITY: The implementation is excellent, providing detailed and specific examples for each requirement. SCORE: 100"
+            },
+            "Reciprocity": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are met. The system models the creation of non-monetizable value through metrics like 'increased_social_cohesion' and 'knowledge_transfer' within the `create_multi_capital_accounting_system` method, and through activities like 'intergenerational knowledge transfer' in the `levels_of_work_plan`. The `guard_against_gentrification` method identifies a specific risk of 'green gentrification' and proposes a robust, structural mitigation strategy involving a Community Land Trust (CLT) and legal codification of ancestral rights with permanent affordability covenants. The stakeholder map (`map_stakeholders`) explicitly includes non-human stakeholders (e.g., 'river_ecosystem', 'Baudó Oropendola') and defines concrete reciprocal actions that directly benefit them. IMPLEMENTATION QUALITY: The implementation is highly detailed and robust, providing strong examples for each requirement. SCORE: 100"
+            },
+            "Nodal Interventions": {
+              "score": 80,
+              "feedback": "REQUIREMENTS CHECK: Both requirements are met. The `map_planetary_connections` method identifies multiple global flows (e.g., ecological service markets, climate finance, palm oil supply chains) and articulates a specific risk of dependency on volatile global markets for ecological services. The `develop_nodal_intervention_strategy` method clearly assesses the greenwashing risk associated with the DAO and proposes a specific, robust mitigation strategy: establishing a community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard that bundles carbon with non-monetizable, culturally relevant metrics. IMPLEMENTATION QUALITY: The implementation is strong, providing clear identification of risks and well-defined, actionable mitigation strategies. SCORE: 100\n\n[SEMANTIC WARNING]: Greenwashing risk identified but no structural anti-cooptation mechanisms found. Add \"poison pill\", \"binding language\", or \"veto power\" protections."
+            },
+            "Pattern Literacy": {
+              "score": 70,
+              "feedback": "REQUIREMENTS CHECK: Both requirements are met. The design includes two methods explicitly named as 'counter-patterns': `create_multi_capital_accounting_system` and `create_closed_loop_community_economy`. The `place_narrative` method clearly identifies a 'detrimental, abstract pattern' (linear, extractive waste stream) and a 'life-affirming, local pattern' (mangrove-fish-community symbiosis and ancestral stewardship cycle), and thoroughly explains how the project weakens the former and strengthens the latter. IMPLEMENTATION QUALITY: The implementation is excellent, with clear naming conventions and a comprehensive narrative that directly addresses the principle. SCORE: 100\n\n[FORMAL VERIFICATION FAILED (OBJECT mode)]:\n\nWHAT'S MISSING:\nPattern \"/def.*counter.*pattern|develop.*counter.*pattern|counter.*strateg|alternative.*pattern|resist.*pattern|disrupt.*pattern/i\" NOT FOUND\n\n\nREQUIRED FIXES FOR PATTERN LITERACY:\n- Name at least TWO methods using \"counter_pattern\" in their name\n- Identify a detrimental abstract pattern (shock doctrine, extractive logic, linear disaster response)\n- Identify a life-affirming local pattern (cyclical resilience, reciprocal relations, regenerative cycles)\n- Explain how the intervention shifts from the detrimental to the life-affirming pattern\n\nCRITICAL: Use the EXACT TERMS specified above in your code."
+            },
+            "Levels of Work": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are met. The `develop_levels_of_work_plan` method explicitly defines the 'Regenerate' level's goal as 'Building community capacity for self-governance and co-evolution... perpetually challenging and subverting extractive logics.' All listed activities for the 'Regenerate' level (e.g., MCI-VC, Youth-Elder program, Bioregional Resilience Fund, Rights of Nature) explicitly describe how they challenge specific extractive logics. The method clearly defines how the 'Regenerate' level influences the 'Operate', 'Maintain', and 'Improve' levels, ensuring a guiding vision for the entire framework. IMPLEMENTATION QUALITY: The implementation is exceptionally strong, providing a comprehensive and critically informed plan for the 'Regenerate' level and its influence. SCORE: 100"
+            }
+          }
+        }
+      },
+      "duration_ms": 581561,
+      "memory_usage": 82969248
+    },
+    {
+      "timestamp": "2025-10-15T09:42:00.051Z",
+      "step": "CORRECTION_3",
+      "status": "started",
+      "details": "Starting semantic code correction",
+      "output": {
+        "temperature": 0.5
+      },
+      "duration_ms": 581571,
+      "memory_usage": 83362232
+    },
+    {
+      "timestamp": "2025-10-15T09:45:22.428Z",
+      "step": "STREAM_CRITIQUE",
+      "status": "completed",
+      "output": {
+        "score": 98,
+        "threshold": 100,
+        "stage": "CRITICAL_EVALUATION",
+        "passed": false
+      },
+      "duration_ms": 783948,
+      "memory_usage": 79478216
+    },
+    {
+      "timestamp": "2025-10-15T09:45:22.437Z",
+      "step": "ITERATION_4",
+      "status": "completed",
+      "details": "Iteration 4 completed",
+      "output": {
+        "iteration_number": 4,
+        "alignment_score": 98,
+        "development_stage": "CRITICAL_EVALUATION",
+        "code_length": 58049,
+        "principle_scores": {
+          "Wholeness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The `map_stakeholders` method correctly identifies non-human actors ('river_ecosystem') and marginalized human groups ('long_term_residents'). The `warn_of_cooptation` method provides a highly specific counter-narrative against 'green market' logic. The `generate_governance_architecture_report` method explicitly models the tension between maximizing Financial Capital and the resulting degradation of other capitals. IMPLEMENTATION QUALITY: The implementation is flawless and robust, demonstrating a sophisticated understanding of the principle by integrating all requirements seamlessly into the final report structure. SCORE: 100"
+          },
+          "Nestedness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `__init__` constructor correctly accepts parameters representing ecological, political, and governance scales (`bioregion_data`, `location_data`, `governance_data`). The `analyze_scale_conflicts` method identifies a specific conflict between national and local sovereignty and proposes a concrete, actionable strategy: a 'Bajo Baudó Bioregional Co-Governance Council' with a clearly defined power structure (e.g., Minambiente in a 'consultative, non-voting capacity'). IMPLEMENTATION QUALITY: The proposed solution is legally and politically astute, providing a verifiable and robust mechanism for realigning competing scales. SCORE: 100"
+          },
+          "Place": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system's configuration is driven by `historical_data`. The `analyze_historical_layers` method draws a direct, verifiable line from historical injustices (e.g., 'illegal logging') to specific present-day vulnerabilities (e.g., 'youth outmigration'). The `differential_space_strategy` method provides three concrete actions ('community land trust', 'repurpose abandoned infrastructure', 'protect Cultural and Ecological Heritage Zones') that directly counter the logic of abstract space. IMPLEMENTATION QUALITY: The implementation shows exceptional fidelity to the principle, grounding every component in the specific historical and material reality of the place. SCORE: 100"
+          },
+          "Reciprocity": {
+            "score": 90,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are met. YES - The system models non-monetizable value through its multi-capital accounting framework (e.g., 'increased_social_cohesion', 'knowledge_transfer'). YES - `guard_against_gentrification` proposes a specific and structural Community Land Trust. YES - The stakeholder map includes non-human entities with defined reciprocal actions. IMPLEMENTATION QUALITY: The implementation is generally very strong. However, a critical flaw exists within the multi-capital accounting system designed to model this value. It specifies two verification bodies for carbon sequestration ('Independent third-party' and 'community-led ground truthing') but fails to define a protocol or final authority for resolving disagreements between them. This ambiguity creates a potential power imbalance that could be exploited, weakening the reciprocal foundation of the system. SCORE: 90"
+          },
+          "NodalInterventions": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `map_planetary_connections` method correctly identifies global flows (e.g., 'Global ecological service markets') and articulates a specific risk ('dependency on volatile global markets'). The `develop_nodal_intervention_strategy` method assesses greenwashing risk and proposes a concrete, sophisticated mitigation strategy: the community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard. IMPLEMENTATION QUALITY: The AMSIU concept is an exemplary nodal intervention, creating a robust defense against co-optation and greenwashing by fundamentally changing the terms of engagement with global markets. SCORE: 100"
+          },
+          "PatternLiteracy": {
+            "score": 90,
+            "feedback": "REQUIREMENTS CHECK: Both requirements are met. YES - The design includes methods explicitly named as 'counter-patterns' (`develop_multi_capital_accounting_counter_pattern` and `develop_closed_loop_economy_counter_pattern`). YES - The `place_narrative` correctly identifies a detrimental abstract pattern ('linear, extractive waste stream') and a life-affirming local pattern ('mangrove-fish-community symbiosis'). IMPLEMENTATION QUALITY: The structure is excellent. However, the implementation of the `develop_multi_capital_accounting_counter_pattern` contains a verifiable flaw: it does not specify a conflict resolution mechanism for its dual-verifier system (independent vs. community). This weakens the robustness of the counter-pattern, as it leaves a critical governance gap open to exploitation. SCORE: 90"
+          },
+          "LevelsOfWork": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The 'Regenerate' level's goal is correctly defined as 'building community capacity for self-governance and co-evolution.' The activities for this level, such as establishing a 'community-owned... Verification Cooperative' and formalizing 'Rights of Nature,' explicitly state how they challenge specific extractive logics. The 'Regenerate' level's influence on the other three levels is clearly articulated. IMPLEMENTATION QUALITY: The implementation is a textbook example of the principle, providing a clear, hierarchical, and mutually reinforcing structure for action. SCORE: 100"
+          }
+        },
+        "full_critique": {
+          "critique": "The multi-capital accounting system establishes two verification bodies for its most financially sensitive metric ('Independent third-party' and 'community-led ground truthing') but fails to define a protocol for resolving verification disputes. The Bioregional Co-Governance Council must be explicitly granted final authority to adjudicate any disagreements between these two verifiers to prevent external epistemic capture.",
+          "developmentStage": "CRITICAL_EVALUATION",
+          "principleScores": {
+            "Wholeness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The `map_stakeholders` method correctly identifies non-human actors ('river_ecosystem') and marginalized human groups ('long_term_residents'). The `warn_of_cooptation` method provides a highly specific counter-narrative against 'green market' logic. The `generate_governance_architecture_report` method explicitly models the tension between maximizing Financial Capital and the resulting degradation of other capitals. IMPLEMENTATION QUALITY: The implementation is flawless and robust, demonstrating a sophisticated understanding of the principle by integrating all requirements seamlessly into the final report structure. SCORE: 100"
+            },
+            "Nestedness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `__init__` constructor correctly accepts parameters representing ecological, political, and governance scales (`bioregion_data`, `location_data`, `governance_data`). The `analyze_scale_conflicts` method identifies a specific conflict between national and local sovereignty and proposes a concrete, actionable strategy: a 'Bajo Baudó Bioregional Co-Governance Council' with a clearly defined power structure (e.g., Minambiente in a 'consultative, non-voting capacity'). IMPLEMENTATION QUALITY: The proposed solution is legally and politically astute, providing a verifiable and robust mechanism for realigning competing scales. SCORE: 100"
+            },
+            "Place": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system's configuration is driven by `historical_data`. The `analyze_historical_layers` method draws a direct, verifiable line from historical injustices (e.g., 'illegal logging') to specific present-day vulnerabilities (e.g., 'youth outmigration'). The `differential_space_strategy` method provides three concrete actions ('community land trust', 'repurpose abandoned infrastructure', 'protect Cultural and Ecological Heritage Zones') that directly counter the logic of abstract space. IMPLEMENTATION QUALITY: The implementation shows exceptional fidelity to the principle, grounding every component in the specific historical and material reality of the place. SCORE: 100"
+            },
+            "Reciprocity": {
+              "score": 90,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are met. YES - The system models non-monetizable value through its multi-capital accounting framework (e.g., 'increased_social_cohesion', 'knowledge_transfer'). YES - `guard_against_gentrification` proposes a specific and structural Community Land Trust. YES - The stakeholder map includes non-human entities with defined reciprocal actions. IMPLEMENTATION QUALITY: The implementation is generally very strong. However, a critical flaw exists within the multi-capital accounting system designed to model this value. It specifies two verification bodies for carbon sequestration ('Independent third-party' and 'community-led ground truthing') but fails to define a protocol or final authority for resolving disagreements between them. This ambiguity creates a potential power imbalance that could be exploited, weakening the reciprocal foundation of the system. SCORE: 90"
+            },
+            "NodalInterventions": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `map_planetary_connections` method correctly identifies global flows (e.g., 'Global ecological service markets') and articulates a specific risk ('dependency on volatile global markets'). The `develop_nodal_intervention_strategy` method assesses greenwashing risk and proposes a concrete, sophisticated mitigation strategy: the community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard. IMPLEMENTATION QUALITY: The AMSIU concept is an exemplary nodal intervention, creating a robust defense against co-optation and greenwashing by fundamentally changing the terms of engagement with global markets. SCORE: 100"
+            },
+            "PatternLiteracy": {
+              "score": 90,
+              "feedback": "REQUIREMENTS CHECK: Both requirements are met. YES - The design includes methods explicitly named as 'counter-patterns' (`develop_multi_capital_accounting_counter_pattern` and `develop_closed_loop_economy_counter_pattern`). YES - The `place_narrative` correctly identifies a detrimental abstract pattern ('linear, extractive waste stream') and a life-affirming local pattern ('mangrove-fish-community symbiosis'). IMPLEMENTATION QUALITY: The structure is excellent. However, the implementation of the `develop_multi_capital_accounting_counter_pattern` contains a verifiable flaw: it does not specify a conflict resolution mechanism for its dual-verifier system (independent vs. community). This weakens the robustness of the counter-pattern, as it leaves a critical governance gap open to exploitation. SCORE: 90"
+            },
+            "LevelsOfWork": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The 'Regenerate' level's goal is correctly defined as 'building community capacity for self-governance and co-evolution.' The activities for this level, such as establishing a 'community-owned... Verification Cooperative' and formalizing 'Rights of Nature,' explicitly state how they challenge specific extractive logics. The 'Regenerate' level's influence on the other three levels is clearly articulated. IMPLEMENTATION QUALITY: The implementation is a textbook example of the principle, providing a clear, hierarchical, and mutually reinforcing structure for action. SCORE: 100"
+            }
+          }
+        }
+      },
+      "duration_ms": 783957,
+      "memory_usage": 79352872
+    },
+    {
+      "timestamp": "2025-10-15T09:45:22.447Z",
+      "step": "CORRECTION_4",
+      "status": "started",
+      "details": "Starting semantic code correction",
+      "output": {
+        "temperature": 0.5
+      },
+      "duration_ms": 783967,
+      "memory_usage": 79787024
+    },
+    {
+      "timestamp": "2025-10-15T09:47:47.227Z",
+      "step": "STREAM_CRITIQUE",
+      "status": "completed",
+      "output": {
+        "score": 97,
+        "threshold": 100,
+        "stage": "Audit Complete",
+        "passed": false
+      },
+      "duration_ms": 928747,
+      "memory_usage": 82255016
+    },
+    {
+      "timestamp": "2025-10-15T09:47:47.241Z",
+      "step": "ITERATION_5",
+      "status": "completed",
+      "details": "Iteration 5 completed",
+      "output": {
+        "iteration_number": 5,
+        "alignment_score": 97,
+        "development_stage": "Audit Complete",
+        "code_length": 58430,
+        "principle_scores": {
+          "Wholeness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The `map_stakeholders` method correctly identifies non-human actors ('river_ecosystem') and marginalized human groups ('long_term_residents'). The `warn_of_cooptation` method provides a highly specific and robust counter-narrative against extractive 'green market' logic. The final report explicitly models the tension between Financial Capital and other capitals, detailing how optimizing for the former would degrade the latter. IMPLEMENTATION QUALITY: The implementation is exemplary, demonstrating a deep and nuanced understanding of the principle. The articulation of trade-offs is particularly strong. SCORE: 100"
+          },
+          "Nestedness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `__init__` constructor correctly accepts parameters representing distinct ecological and political scales (`bioregion_data`, `governance_data`). The `analyze_scale_conflicts` method identifies a specific, realistic conflict between national ministry regulations and local customary law, and proposes a concrete, actionable strategy in the form of a 'Bajo Baudó Bioregional Co-Governance Council' with a detailed structure. IMPLEMENTATION QUALITY: The proposed solution is structurally sound and legally plausible, directly addressing the core challenge of aligning competing jurisdictional scales. SCORE: 100"
+          },
+          "Place": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system's configuration is driven by `historical_data`. The `analyze_historical_layers` method draws clear, specific causal links between historical injustices (e.g., failed NGO attempts, resource extraction) and present-day vulnerabilities (e.g., community distrust, youth outmigration). The `differential_space_strategy` provides three concrete actions (CLT, repurposing infrastructure, heritage zones) that directly counter abstract space logic. IMPLEMENTATION QUALITY: The implementation shows a sophisticated understanding of how historical context shapes present potential, and the proposed strategies are robust and well-aligned with the principle. SCORE: 100"
+          },
+          "Reciprocity": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system models the creation of non-monetizable value through its multi-capital accounting framework (e.g., 'Territorial Sovereignty Index', 'Intergenerational Knowledge Transfer Rate'). The `guard_against_gentrification` method proposes a specific, structural mitigation strategy (a legally binding Community Land Trust). The stakeholder map includes non-human entities with clearly defined reciprocal actions. IMPLEMENTATION QUALITY: The implementation is flawless. The mechanisms for creating and measuring non-monetizable value are well-integrated, and the safeguards are legally robust. SCORE: 100"
+          },
+          "Nodal Interventions": {
+            "score": 80,
+            "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `map_planetary_connections` method correctly identifies global flows (e.g., climate finance, supply chains) and articulates a specific risk of dependency on volatile markets. The `develop_nodal_intervention_strategy` method assesses the greenwashing risk and proposes a concrete mitigation: the 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' as a community-led certification standard. IMPLEMENTATION QUALITY: The AMSIU concept is a powerful and innovative strategy that directly addresses the risk of co-optation and greenwashing, demonstrating a high-quality implementation of the principle. SCORE: 100\n\n[SEMANTIC WARNING]: Greenwashing risk identified but no structural anti-cooptation mechanisms found. Add \"poison pill\", \"binding language\", or \"veto power\" protections."
+          },
+          "Pattern Literacy": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: Both requirements were met. The design includes methods explicitly named as 'counter-patterns' (`develop_multi_capital_accounting_counter_pattern`, `develop_closed_loop_economy_counter_pattern`). The `place_narrative` method masterfully identifies a detrimental abstract pattern ('linear, extractive waste stream') and a life-affirming local pattern ('mangrove-fish-community symbiosis') and explains the project's impact on both. IMPLEMENTATION QUALITY: The implementation perfectly captures the essence of the principle, using the required naming convention and providing a clear, compelling narrative that demonstrates deep pattern literacy. SCORE: 100"
+          },
+          "Levels of Work": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The 'Regenerate' level's goal is correctly defined as building community capacity for self-governance. The activities for this level (e.g., establishing a community-owned cooperative, formalizing Rights of Nature) explicitly state how they challenge specific extractive logics. The 'Regenerate' level's influence on the Operate, Maintain, and Improve levels is clearly defined. IMPLEMENTATION QUALITY: The implementation is textbook-perfect, providing a clear and actionable framework that aligns all levels of work with a transformative, regenerative vision. SCORE: 100"
+          }
+        },
+        "full_critique": {
+          "critique": "A critical data integrity flaw exists in the final report generation. The `generate_governance_architecture_report` method redundantly includes the `multi_capital_system_output` object in two separate locations within the final JSON: once nested inside `crisis_solutions.implementation_gap_solution` and again at the top level under `counter_pattern_implementations`. This structural duplication is a verifiable flaw that violates principles of efficient design and must be resolved to ensure a clean, non-redundant final output.",
+          "developmentStage": "Audit Complete",
+          "principleScores": {
+            "Wholeness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The `map_stakeholders` method correctly identifies non-human actors ('river_ecosystem') and marginalized human groups ('long_term_residents'). The `warn_of_cooptation` method provides a highly specific and robust counter-narrative against extractive 'green market' logic. The final report explicitly models the tension between Financial Capital and other capitals, detailing how optimizing for the former would degrade the latter. IMPLEMENTATION QUALITY: The implementation is exemplary, demonstrating a deep and nuanced understanding of the principle. The articulation of trade-offs is particularly strong. SCORE: 100"
+            },
+            "Nestedness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `__init__` constructor correctly accepts parameters representing distinct ecological and political scales (`bioregion_data`, `governance_data`). The `analyze_scale_conflicts` method identifies a specific, realistic conflict between national ministry regulations and local customary law, and proposes a concrete, actionable strategy in the form of a 'Bajo Baudó Bioregional Co-Governance Council' with a detailed structure. IMPLEMENTATION QUALITY: The proposed solution is structurally sound and legally plausible, directly addressing the core challenge of aligning competing jurisdictional scales. SCORE: 100"
+            },
+            "Place": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system's configuration is driven by `historical_data`. The `analyze_historical_layers` method draws clear, specific causal links between historical injustices (e.g., failed NGO attempts, resource extraction) and present-day vulnerabilities (e.g., community distrust, youth outmigration). The `differential_space_strategy` provides three concrete actions (CLT, repurposing infrastructure, heritage zones) that directly counter abstract space logic. IMPLEMENTATION QUALITY: The implementation shows a sophisticated understanding of how historical context shapes present potential, and the proposed strategies are robust and well-aligned with the principle. SCORE: 100"
+            },
+            "Reciprocity": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system models the creation of non-monetizable value through its multi-capital accounting framework (e.g., 'Territorial Sovereignty Index', 'Intergenerational Knowledge Transfer Rate'). The `guard_against_gentrification` method proposes a specific, structural mitigation strategy (a legally binding Community Land Trust). The stakeholder map includes non-human entities with clearly defined reciprocal actions. IMPLEMENTATION QUALITY: The implementation is flawless. The mechanisms for creating and measuring non-monetizable value are well-integrated, and the safeguards are legally robust. SCORE: 100"
+            },
+            "Nodal Interventions": {
+              "score": 80,
+              "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `map_planetary_connections` method correctly identifies global flows (e.g., climate finance, supply chains) and articulates a specific risk of dependency on volatile markets. The `develop_nodal_intervention_strategy` method assesses the greenwashing risk and proposes a concrete mitigation: the 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' as a community-led certification standard. IMPLEMENTATION QUALITY: The AMSIU concept is a powerful and innovative strategy that directly addresses the risk of co-optation and greenwashing, demonstrating a high-quality implementation of the principle. SCORE: 100\n\n[SEMANTIC WARNING]: Greenwashing risk identified but no structural anti-cooptation mechanisms found. Add \"poison pill\", \"binding language\", or \"veto power\" protections."
+            },
+            "Pattern Literacy": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: Both requirements were met. The design includes methods explicitly named as 'counter-patterns' (`develop_multi_capital_accounting_counter_pattern`, `develop_closed_loop_economy_counter_pattern`). The `place_narrative` method masterfully identifies a detrimental abstract pattern ('linear, extractive waste stream') and a life-affirming local pattern ('mangrove-fish-community symbiosis') and explains the project's impact on both. IMPLEMENTATION QUALITY: The implementation perfectly captures the essence of the principle, using the required naming convention and providing a clear, compelling narrative that demonstrates deep pattern literacy. SCORE: 100"
+            },
+            "Levels of Work": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The 'Regenerate' level's goal is correctly defined as building community capacity for self-governance. The activities for this level (e.g., establishing a community-owned cooperative, formalizing Rights of Nature) explicitly state how they challenge specific extractive logics. The 'Regenerate' level's influence on the Operate, Maintain, and Improve levels is clearly defined. IMPLEMENTATION QUALITY: The implementation is textbook-perfect, providing a clear and actionable framework that aligns all levels of work with a transformative, regenerative vision. SCORE: 100"
+            }
+          }
+        }
+      },
+      "duration_ms": 928761,
+      "memory_usage": 82708320
+    },
+    {
+      "timestamp": "2025-10-15T09:47:47.254Z",
+      "step": "CORRECTION_5",
+      "status": "started",
+      "details": "Starting semantic code correction",
+      "output": {
+        "temperature": 0.5
+      },
+      "duration_ms": 928774,
+      "memory_usage": 83186400
+    },
+    {
+      "timestamp": "2025-10-15T09:50:11.288Z",
+      "step": "STREAM_CRITIQUE",
+      "status": "completed",
+      "output": {
+        "score": 97,
+        "threshold": 100,
+        "stage": "Final Audit",
+        "passed": false
+      },
+      "duration_ms": 1072808,
+      "memory_usage": 84761256
+    },
+    {
+      "timestamp": "2025-10-15T09:50:11.301Z",
+      "step": "ITERATION_6",
+      "status": "completed",
+      "details": "Iteration 6 completed",
+      "output": {
+        "iteration_number": 6,
+        "alignment_score": 97,
+        "development_stage": "Final Audit",
+        "code_length": 58622,
+        "principle_scores": {
+          "Wholeness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are fully met. 1) `map_stakeholders` correctly identifies non-human actors ('river_ecosystem') and marginalized human groups ('long_term_residents'). 2) `warn_of_cooptation` provides a highly specific counter-narrative contrasting extractive 'green market' logic with 're-asserting ancestral territorial sovereignty'. 3) The `generate_governance_architecture_report` method explicitly models the tension between maximizing Reparative Finance and the resulting degradation of Natural and Social/Cultural capital. IMPLEMENTATION QUALITY: The implementation is exemplary, demonstrating a deep understanding of the principle by not only meeting but robustly integrating all requirements into a coherent analysis."
+          },
+          "Nestedness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: Both requirements are fully met. 1) The `__init__` method correctly accepts parameters for multiple scales (`location_data`, `bioregion_data`, `governance_data`). 2) `analyze_scale_conflicts` identifies a specific conflict between national ministry regulations and local customary law, and proposes a concrete, actionable strategy: the 'Bajo Baudó Bioregional Co-Governance Council' with a defined power structure and a 'binding inter-jurisdictional agreement'. IMPLEMENTATION QUALITY: The proposed solution is not a vague suggestion but a detailed institutional design, demonstrating a high-quality implementation of the principle."
+          },
+          "Place": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are fully met. 1) The system's configuration is driven by `historical_data`, which is explicitly loaded in `_initialize_core_elements`. 2) `analyze_historical_layers` makes two direct connections between historical injustices (e.g., 'illegal logging', 'failed top-down NGO attempt') and specific present-day vulnerabilities (e.g., 'youth outmigration', 'distrust in external interventions'). 3) `differential_space_strategy` provides three concrete actions ('community land trust', 'repurpose abandoned infrastructure', 'protect Heritage Zones') that directly counter abstract space logic. IMPLEMENTATION QUALITY: The implementation is flawless, grounding the entire architecture in the specific, layered history of the place."
+          },
+          "Reciprocity": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are fully met. 1) The `develop_multi_capital_accounting_counter_pattern` method models the creation of non-monetizable value through metrics like the 'Intergenerational Knowledge Transfer Rate' leading to 'increased_social_cohesion'. 2) `guard_against_gentrification` proposes a specific, structural mitigation strategy in the form of a 'Community Land Trust (CLT) structure'. 3) The stakeholder map includes non-human entities and defines specific reciprocal actions for them, such as restoring riparian habitat for the 'river_ecosystem'. IMPLEMENTATION QUALITY: The implementation is robust and comprehensive, weaving reciprocity into the legal, economic, and ecological fabric of the design."
+          },
+          "Nodal Interventions": {
+            "score": 80,
+            "feedback": "REQUIREMENTS CHECK: Both requirements are fully met. 1) `map_planetary_connections` identifies global flows (e.g., 'Global ecological service markets') and articulates a specific risk ('dependency on volatile global markets'). 2) `develop_nodal_intervention_strategy` assesses greenwashing risk and proposes a concrete mitigation: the 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard, which bundles carbon with other community-defined metrics. IMPLEMENTATION QUALITY: The AMSIU concept is a sophisticated and powerful nodal intervention that directly addresses the risk of co-optation, demonstrating a very high quality of design.\n\n[SEMANTIC WARNING]: Greenwashing risk identified but no structural anti-cooptation mechanisms found. Add \"poison pill\", \"binding language\", or \"veto power\" protections."
+          },
+          "Pattern Literacy": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: Both requirements are fully met. 1) The design includes methods explicitly named as counter-patterns: `develop_multi_capital_accounting_counter_pattern` and `develop_closed_loop_economy_counter_pattern`. 2) The `place_narrative` clearly identifies a detrimental abstract pattern ('linear, extractive waste stream') and a life-affirming local pattern ('mangrove-fish-community symbiosis') and explains the project's impact on both. IMPLEMENTATION QUALITY: The implementation perfectly adheres to the constitutional requirements, using the concept of counter-patterns to structure core components of the solution."
+          },
+          "Levels of Work": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements are fully met. 1) The 'Regenerate' level's goal is explicitly defined as 'Building community capacity for self-governance and co-evolution'. 2) The 'Regenerate' activities (e.g., 'Establish a community-owned...MCI-VC') explicitly state how they challenge a specific extractive logic. 3) The 'Regenerate' level's influence on the Operate, Maintain, and Improve levels is clearly defined and articulated. IMPLEMENTATION QUALITY: The implementation is exemplary, providing a clear, hierarchical, and mutually reinforcing framework for action that is anchored in a transformative vision."
+          }
+        },
+        "full_critique": {
+          "critique": "The solution's logic is constitutionally sound, but a structural flaw exists in the final report generation. The `solve_implementation_gap` method embeds the entire `multi_capital_system_output` object within its own output. This leads to the same large data structure being duplicated in the final report under both `crisis_solutions` and `counter_pattern_implementations`. A programmatic verifier would flag this data redundancy. The solution should be refactored to conceptually reference the counter-pattern without duplicating its data structure in the final output.",
+          "developmentStage": "Final Audit",
+          "principleScores": {
+            "Wholeness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are fully met. 1) `map_stakeholders` correctly identifies non-human actors ('river_ecosystem') and marginalized human groups ('long_term_residents'). 2) `warn_of_cooptation` provides a highly specific counter-narrative contrasting extractive 'green market' logic with 're-asserting ancestral territorial sovereignty'. 3) The `generate_governance_architecture_report` method explicitly models the tension between maximizing Reparative Finance and the resulting degradation of Natural and Social/Cultural capital. IMPLEMENTATION QUALITY: The implementation is exemplary, demonstrating a deep understanding of the principle by not only meeting but robustly integrating all requirements into a coherent analysis."
+            },
+            "Nestedness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: Both requirements are fully met. 1) The `__init__` method correctly accepts parameters for multiple scales (`location_data`, `bioregion_data`, `governance_data`). 2) `analyze_scale_conflicts` identifies a specific conflict between national ministry regulations and local customary law, and proposes a concrete, actionable strategy: the 'Bajo Baudó Bioregional Co-Governance Council' with a defined power structure and a 'binding inter-jurisdictional agreement'. IMPLEMENTATION QUALITY: The proposed solution is not a vague suggestion but a detailed institutional design, demonstrating a high-quality implementation of the principle."
+            },
+            "Place": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are fully met. 1) The system's configuration is driven by `historical_data`, which is explicitly loaded in `_initialize_core_elements`. 2) `analyze_historical_layers` makes two direct connections between historical injustices (e.g., 'illegal logging', 'failed top-down NGO attempt') and specific present-day vulnerabilities (e.g., 'youth outmigration', 'distrust in external interventions'). 3) `differential_space_strategy` provides three concrete actions ('community land trust', 'repurpose abandoned infrastructure', 'protect Heritage Zones') that directly counter abstract space logic. IMPLEMENTATION QUALITY: The implementation is flawless, grounding the entire architecture in the specific, layered history of the place."
+            },
+            "Reciprocity": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are fully met. 1) The `develop_multi_capital_accounting_counter_pattern` method models the creation of non-monetizable value through metrics like the 'Intergenerational Knowledge Transfer Rate' leading to 'increased_social_cohesion'. 2) `guard_against_gentrification` proposes a specific, structural mitigation strategy in the form of a 'Community Land Trust (CLT) structure'. 3) The stakeholder map includes non-human entities and defines specific reciprocal actions for them, such as restoring riparian habitat for the 'river_ecosystem'. IMPLEMENTATION QUALITY: The implementation is robust and comprehensive, weaving reciprocity into the legal, economic, and ecological fabric of the design."
+            },
+            "Nodal Interventions": {
+              "score": 80,
+              "feedback": "REQUIREMENTS CHECK: Both requirements are fully met. 1) `map_planetary_connections` identifies global flows (e.g., 'Global ecological service markets') and articulates a specific risk ('dependency on volatile global markets'). 2) `develop_nodal_intervention_strategy` assesses greenwashing risk and proposes a concrete mitigation: the 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard, which bundles carbon with other community-defined metrics. IMPLEMENTATION QUALITY: The AMSIU concept is a sophisticated and powerful nodal intervention that directly addresses the risk of co-optation, demonstrating a very high quality of design.\n\n[SEMANTIC WARNING]: Greenwashing risk identified but no structural anti-cooptation mechanisms found. Add \"poison pill\", \"binding language\", or \"veto power\" protections."
+            },
+            "Pattern Literacy": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: Both requirements are fully met. 1) The design includes methods explicitly named as counter-patterns: `develop_multi_capital_accounting_counter_pattern` and `develop_closed_loop_economy_counter_pattern`. 2) The `place_narrative` clearly identifies a detrimental abstract pattern ('linear, extractive waste stream') and a life-affirming local pattern ('mangrove-fish-community symbiosis') and explains the project's impact on both. IMPLEMENTATION QUALITY: The implementation perfectly adheres to the constitutional requirements, using the concept of counter-patterns to structure core components of the solution."
+            },
+            "Levels of Work": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements are fully met. 1) The 'Regenerate' level's goal is explicitly defined as 'Building community capacity for self-governance and co-evolution'. 2) The 'Regenerate' activities (e.g., 'Establish a community-owned...MCI-VC') explicitly state how they challenge a specific extractive logic. 3) The 'Regenerate' level's influence on the Operate, Maintain, and Improve levels is clearly defined and articulated. IMPLEMENTATION QUALITY: The implementation is exemplary, providing a clear, hierarchical, and mutually reinforcing framework for action that is anchored in a transformative vision."
+            }
+          }
+        }
+      },
+      "duration_ms": 1072821,
+      "memory_usage": 85240688
+    },
+    {
+      "timestamp": "2025-10-15T09:50:11.318Z",
+      "step": "CORRECTION_6",
+      "status": "started",
+      "details": "Starting semantic code correction",
+      "output": {
+        "temperature": 0.5
+      },
+      "duration_ms": 1072838,
+      "memory_usage": 85777816
+    },
+    {
+      "timestamp": "2025-10-15T09:53:58.993Z",
+      "step": "STREAM_CRITIQUE",
+      "status": "completed",
+      "output": {
+        "score": 96,
+        "threshold": 100,
+        "stage": "evaluation",
+        "passed": false
+      },
+      "duration_ms": 1300513,
+      "memory_usage": 80337048
+    },
+    {
+      "timestamp": "2025-10-15T09:53:59.021Z",
+      "step": "ITERATION_7",
+      "status": "completed",
+      "details": "Iteration 7 completed",
+      "output": {
+        "iteration_number": 7,
+        "alignment_score": 96,
+        "development_stage": "evaluation",
+        "code_length": 58642,
+        "principle_scores": {
+          "Wholeness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The `map_stakeholders` method correctly identifies non-human ('river_ecosystem') and marginalized human ('long_term_residents') groups. The `warn_of_cooptation` method provides a highly specific and context-aware counter-narrative against extractive 'green market' logic. The `generate_governance_architecture_report` method explicitly models the tension between Financial Capital and other capitals with a concrete example. IMPLEMENTATION QUALITY: The implementation is exemplary, demonstrating a deep, integrated understanding of the principle. The articulation of trade-offs is particularly robust. SCORE: 100"
+          },
+          "Nestedness": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `__init__` constructor correctly accepts parameters representing ecological (`bioregion_data`), political (`governance_data`), and administrative (`location_data`) scales. The `analyze_scale_conflicts` method identifies a specific conflict between national and local governance scales and proposes a concrete, actionable strategy: the 'Bajo Baudó Bioregional Co-Governance Council'. IMPLEMENTATION QUALITY: The implementation is flawless. The proposed strategy is not a vague suggestion but a detailed, structural solution that directly realigns competing scales. SCORE: 100"
+          },
+          "Place": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system's configuration is loaded from data objects reflecting history (`historical_data`). The `analyze_historical_layers` method makes two distinct and specific connections between historical injustices (e.g., 'illegal logging') and present-day vulnerabilities (e.g., 'youth outmigration'). The `differential_space_strategy` provides three concrete actions ('community land trust', 'repurpose abandoned infrastructure', 'protect Heritage Zones') that counter abstract space logic. IMPLEMENTATION QUALITY: Excellent. The code demonstrates a sophisticated application of the principle, grounding the entire architecture in the specific historical and material context of the place. SCORE: 100"
+          },
+          "Reciprocity": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system models the creation of non-monetizable value through its multi-capital accounting framework (e.g., 'increased_social_cohesion', 'knowledge_transfer'). The `guard_against_gentrification` method proposes a specific, structural mitigation strategy (a legally binding Community Land Trust). The stakeholder map includes non-human entities with clearly defined reciprocal actions benefiting them directly. IMPLEMENTATION QUALITY: The implementation is robust and comprehensive, embedding reciprocity into legal structures, stakeholder relationships, and value accounting. SCORE: 100"
+          },
+          "Nodal Interventions": {
+            "score": 80,
+            "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `map_planetary_connections` method identifies connections to global flows (e.g., 'Global palm oil supply chains') and articulates a specific risk ('dependency on volatile global markets'). The `develop_nodal_intervention_strategy` method assesses greenwashing risk and proposes a concrete mitigation strategy: the community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard. IMPLEMENTATION QUALITY: The implementation is highly sophisticated, correctly identifying the project as a node in global networks and designing a robust defense mechanism (the AMSIU) against co-optation. SCORE: 100\n\n[SEMANTIC WARNING]: Greenwashing risk identified but no structural anti-cooptation mechanisms found. Add \"poison pill\", \"binding language\", or \"veto power\" protections."
+          },
+          "Pattern Literacy": {
+            "score": 90,
+            "feedback": "REQUIREMENTS CHECK: Both explicit requirements were met. The design includes methods explicitly named as 'counter-patterns' (`develop_multi_capital_accounting_counter_pattern`, `develop_closed_loop_economy_counter_pattern`). The `place_narrative` correctly identifies a detrimental abstract pattern ('linear, extractive waste stream') and a life-affirming local pattern ('mangrove-fish-community symbiosis') and explains the project's impact on both. IMPLEMENTATION QUALITY: The implementation is very strong, but a subtle flaw exists within the `multi_capital_accounting_counter_pattern`. While it brilliantly models diverse capitals, it states that the community cooperative 'assigns a weighting' to non-carbon metrics without defining the governance protocol for this critical decision. This ambiguity is a potential failure mode. SCORE: 90"
+          },
+          "Levels of Work": {
+            "score": 100,
+            "feedback": "REQUIREMENTS CHECK: All three requirements were met. The 'Regenerate' level's goal is correctly defined as 'building community capacity for self-governance and co-evolution.' The activities for this level explicitly state how they challenge extractive logic (e.g., 'challenge the extractive logic of centralized utility ownership'). The 'Regenerate' level's influence on the other three levels ('Operate', 'Maintain', 'Improve') is clearly defined. IMPLEMENTATION QUALITY: The implementation is a perfect execution of the constitutional principle, providing a clear, guiding vision that shapes all other levels of work. SCORE: 100"
+          }
+        },
+        "full_critique": {
+          "critique": "The Multi-Capital Accounting system states the community-owned cooperative 'assigns a weighting' to non-carbon metrics but fails to specify the governance protocol for this critical decision-making process. This ambiguity creates a potential failure mode for internal conflict or capture. The system's 'Generative Conflict Protocol' must be explicitly mandated for this weighting process to ensure constitutional compliance.",
+          "developmentStage": "evaluation",
+          "principleScores": {
+            "Wholeness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The `map_stakeholders` method correctly identifies non-human ('river_ecosystem') and marginalized human ('long_term_residents') groups. The `warn_of_cooptation` method provides a highly specific and context-aware counter-narrative against extractive 'green market' logic. The `generate_governance_architecture_report` method explicitly models the tension between Financial Capital and other capitals with a concrete example. IMPLEMENTATION QUALITY: The implementation is exemplary, demonstrating a deep, integrated understanding of the principle. The articulation of trade-offs is particularly robust. SCORE: 100"
+            },
+            "Nestedness": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `__init__` constructor correctly accepts parameters representing ecological (`bioregion_data`), political (`governance_data`), and administrative (`location_data`) scales. The `analyze_scale_conflicts` method identifies a specific conflict between national and local governance scales and proposes a concrete, actionable strategy: the 'Bajo Baudó Bioregional Co-Governance Council'. IMPLEMENTATION QUALITY: The implementation is flawless. The proposed strategy is not a vague suggestion but a detailed, structural solution that directly realigns competing scales. SCORE: 100"
+            },
+            "Place": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system's configuration is loaded from data objects reflecting history (`historical_data`). The `analyze_historical_layers` method makes two distinct and specific connections between historical injustices (e.g., 'illegal logging') and present-day vulnerabilities (e.g., 'youth outmigration'). The `differential_space_strategy` provides three concrete actions ('community land trust', 'repurpose abandoned infrastructure', 'protect Heritage Zones') that counter abstract space logic. IMPLEMENTATION QUALITY: Excellent. The code demonstrates a sophisticated application of the principle, grounding the entire architecture in the specific historical and material context of the place. SCORE: 100"
+            },
+            "Reciprocity": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The system models the creation of non-monetizable value through its multi-capital accounting framework (e.g., 'increased_social_cohesion', 'knowledge_transfer'). The `guard_against_gentrification` method proposes a specific, structural mitigation strategy (a legally binding Community Land Trust). The stakeholder map includes non-human entities with clearly defined reciprocal actions benefiting them directly. IMPLEMENTATION QUALITY: The implementation is robust and comprehensive, embedding reciprocity into legal structures, stakeholder relationships, and value accounting. SCORE: 100"
+            },
+            "Nodal Interventions": {
+              "score": 80,
+              "feedback": "REQUIREMENTS CHECK: Both requirements were met. The `map_planetary_connections` method identifies connections to global flows (e.g., 'Global palm oil supply chains') and articulates a specific risk ('dependency on volatile global markets'). The `develop_nodal_intervention_strategy` method assesses greenwashing risk and proposes a concrete mitigation strategy: the community-led 'Ancestral Mangrove Stewardship Impact Unit (AMSIU)' certification standard. IMPLEMENTATION QUALITY: The implementation is highly sophisticated, correctly identifying the project as a node in global networks and designing a robust defense mechanism (the AMSIU) against co-optation. SCORE: 100\n\n[SEMANTIC WARNING]: Greenwashing risk identified but no structural anti-cooptation mechanisms found. Add \"poison pill\", \"binding language\", or \"veto power\" protections."
+            },
+            "Pattern Literacy": {
+              "score": 90,
+              "feedback": "REQUIREMENTS CHECK: Both explicit requirements were met. The design includes methods explicitly named as 'counter-patterns' (`develop_multi_capital_accounting_counter_pattern`, `develop_closed_loop_economy_counter_pattern`). The `place_narrative` correctly identifies a detrimental abstract pattern ('linear, extractive waste stream') and a life-affirming local pattern ('mangrove-fish-community symbiosis') and explains the project's impact on both. IMPLEMENTATION QUALITY: The implementation is very strong, but a subtle flaw exists within the `multi_capital_accounting_counter_pattern`. While it brilliantly models diverse capitals, it states that the community cooperative 'assigns a weighting' to non-carbon metrics without defining the governance protocol for this critical decision. This ambiguity is a potential failure mode. SCORE: 90"
+            },
+            "Levels of Work": {
+              "score": 100,
+              "feedback": "REQUIREMENTS CHECK: All three requirements were met. The 'Regenerate' level's goal is correctly defined as 'building community capacity for self-governance and co-evolution.' The activities for this level explicitly state how they challenge extractive logic (e.g., 'challenge the extractive logic of centralized utility ownership'). The 'Regenerate' level's influence on the other three levels ('Operate', 'Maintain', 'Improve') is clearly defined. IMPLEMENTATION QUALITY: The implementation is a perfect execution of the constitutional principle, providing a clear, guiding vision that shapes all other levels of work. SCORE: 100"
+            }
+          }
+        }
+      },
+      "duration_ms": 1300541,
+      "memory_usage": 80496832
+    },
+    {
+      "timestamp": "2025-10-15T09:53:59.027Z",
+      "step": "CORRECTION_7",
+      "status": "started",
+      "details": "Starting semantic code correction",
+      "output": {
+        "temperature": 0.5
+      },
+      "duration_ms": 1300547,
+      "memory_usage": 81073072
+    }
+  ],
+  "status": "IN_PROGRESS"
+}
