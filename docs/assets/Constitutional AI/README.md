@@ -152,7 +152,7 @@ Most AI alignment methods try to encode **preferences** (subjective):
 
 **Problem:** Values are contested, training is opaque, brittleness at edge cases.
 
-### Your Alternative Approach
+### Our Alternative Approach
 
 Encode **constraints** based on logical/physical reality (objective):
 
