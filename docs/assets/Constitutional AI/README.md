@@ -96,9 +96,9 @@ Low Temperature (0.1)          High Temperature (0.7)
 
 ---
 
-## Your Scientific Contribution
+## Our Approach
 
-### What You've Demonstrated
+Preliminary tests indicate that:
 
 1. **Constitutional AI is robust** across temperature settings
 2. **Quality-Diversity exploration works** (6 families, not 1 optimum)
