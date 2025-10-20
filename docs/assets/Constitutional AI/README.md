@@ -4,7 +4,7 @@
 
 ---
 
-Dialectical Kernel (VDK) that enforces a 7-principle “Critically-Informed Regenerative Constitution” while generating governance architectures for the same real-world prompt. Across two generative regimes (T=0.7, exploratory; T=0.1, baseline) the system produced six distinct architectural families and consistently converged on the same set of core constitutional motifs (legal wrappers, rejection of token-voting, holistic value metrics, anti-capture clauses). Crucially, temperature changed the *frequency distribution* of families and the risk profile (higher temperature → more novelty and slightly lower average alignment) but **did not expand the set of architectural families** (Δ Divergence Index = 0.0). In short, the constitution appears to define a bounded solution space — attractor basins that channel generative exploration into diverse yet constitutionally valid outcomes. This demonstrates a new mode of alignment: constraints that *structure diversity* rather than collapse creativity. The finding has two immediate implications. First, constitutional priors can produce high-quality, verifiable portfolios of governance options rather than a single “best” design — a useful capability for policy makers and practitioners. Second, constitutional enforcement (the VDK) materially reduces the risk that creative exploration produces covertly extractive or illegitimate architectures. These results are preliminary and domain-limited (governance scenarios, single constitution), but they are reproducible and fundable: validation, broader constitutions, causal decomposition, and community pilots are the next steps to test generality and safety.
+Dialectical Kernel (VDK) that enforces a 7-principle “Critically-Informed Regenerative Constitution” while generating governance architectures for the same real-world prompt. Across two generative regimes (T=0.7, exploratory; T=0.1, baseline) the system produced six distinct architectural families and consistently converged on the same set of core constitutional motifs (legal wrappers, rejection of token-voting, holistic value metrics, anti-capture clauses). Crucially, temperature changed the *frequency distribution* of families and the risk profile (higher temperature → more novelty and slightly lower average alignment) but **did not expand the set of architectural families** (Δ Divergence Index = 0.0). In short, the constitution appears to define a bounded solution space — attractor basins that channel generative exploration into diverse yet constitutionally valid outcomes. This suggest a new mode of alignment: constraints that ***structure diversity*** rather than collapse creativity. The finding has two immediate implications. First, constitutional priors can produce high-quality, verifiable portfolios of governance options rather than a single “best” design — a useful capability for policy makers and practitioners. Second, constitutional enforcement (the VDK) materially reduces the risk that creative exploration produces covertly extractive or illegitimate architectures. These results are preliminary and domain-limited (governance scenarios, single constitution), but they are reproducible and fundable: validation, broader constitutions, causal decomposition, and community pilots are the next steps to test generality and safety.
 
 ## FINDING 1: The Constitution Defines a Stable Solution Space
 
@@ -78,12 +78,12 @@ This validates the **robustness** of Constitutional AI as an alignment method.
 ```
 Low Temperature (0.1)          High Temperature (0.7)
         ↓                              ↓
-   ┌─────────┐                   ┌─────────┐
-   │  SAFE   │                   │EXPLORATORY│
-   │Predictable│                 │ Creative  │
-   │99.6% align│                 │96.6% align│
-   │  Stable  │                   │  Risky   │
-   └─────────┘                   └─────────┘
+   ┌───────────┐                   ┌───────────┐
+   │  SAFE     │                   │EXPLORATORY│
+   │Predictable│                   │ Creative  │
+   │99.6% align│                   │96.6% align│
+   │  Stable   │                   │  Risky    │
+   └───────────┘                   └───────────┘
 ```
 
 ### Practical Guidance
@@ -249,7 +249,7 @@ This proves **Quality-Diversity optimization** can generate portfolios of consti
 
 **Institution:** Urban Planning/Regenerative Governance
 
-**Email:** c.arleo@localis-ai.uk
+**Email:** [c.arleo@localis-ai.uk](c.arleo@localis-ai.uk)
 
 **Phone:** +447881647716
 
