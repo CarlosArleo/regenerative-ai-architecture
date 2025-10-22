@@ -69,11 +69,11 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 
 ## Experiments & Case Studies
 
-# [Constitutional AI: Key Findings from N=36 Experimental Study](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/assets/Constitutional%20AI)
+## [Constitutional AI: Key Findings from N=36 Experimental Study](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/assets/Constitutional%20AI)
 
 **Verified Dialectical Kernel (VDK) - Temperature Robustness Analysis**
 
-# [Regenerative Development AI: A Constitutional Framework for Community Sovereignty](https://github.com/CarlosArleo/regenerative-development-ai)
+## [Regenerative Development AI: A Constitutional Framework for Community Sovereignty](https://github.com/CarlosArleo/regenerative-development-ai)
 
 ###### Complete Project Vision & Theoretical Foundations
 
@@ -81,11 +81,11 @@ Where Regenerative Frameworks Meet Constitutional AI: A Research Project in Epis
 
 ## **[From Community Wisdom to a Living Constitution](https://github.com/CarlosArleo/regenerative-development-ai/tree/main/case-studies/carrington-moss)**
 
-*A Proposal for the Future of Carrington Moss*
+A Proposal for the Future of Carrington Moss
 
-# [Architecting DAO 3.0](https://carlosarleo.github.io/dao3-blueprint/#section-1-the-starting-point---our-shared-struggle)
+## [Architecting DAO 3.0](https://carlosarleo.github.io/dao3-blueprint/#section-1-the-starting-point---our-shared-struggle)
 
-[A Battle-Tested Blueprint for Solving ReFi&#39;s Implementation Gap](https://carlosarleo.github.io/dao3-blueprint/#architecting-dao-30-a-battle-tested-blueprint-for-solving-refis-implementation-gap)
+A Battle-Tested Blueprint for Solving ReFi&#39;s Implementation Gap
 
 ### Key Experiments
 
