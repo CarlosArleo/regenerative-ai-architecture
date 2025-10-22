@@ -79,6 +79,14 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 
 Where Regenerative Frameworks Meet Constitutional AI: A Research Project in Epistemic Innovation
 
+## **[From Community Wisdom to a Living Constitution](https://github.com/CarlosArleo/regenerative-development-ai/tree/main/case-studies/carrington-moss)**
+
+*A Proposal for the Future of Carrington Moss*
+
+# [Architecting DAO 3.0](https://carlosarleo.github.io/dao3-blueprint/#section-1-the-starting-point---our-shared-struggle)
+
+[A Battle-Tested Blueprint for Solving ReFi&#39;s Implementation Gap](https://carlosarleo.github.io/dao3-blueprint/#architecting-dao-30-a-battle-tested-blueprint-for-solving-refis-implementation-gap)
+
 ### Key Experiments
 
 * **[The Genesis Protocol](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/case-studies/experiments/The%20Genesis%20Protocol)**
