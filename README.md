@@ -1,6 +1,6 @@
 ![WFF Architecture](docs/assets/wff-architecture.png)
 
-# The Wisdom Forcing Function™
+# The Wisdom Forcing Function
 
 ### What if AI alignment could invent solutions, not just prevent harm?
 
@@ -72,6 +72,12 @@ By operationalizing **productive tension** through a multi-agent dialectical loo
 # [Constitutional AI: Key Findings from N=36 Experimental Study](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/assets/Constitutional%20AI)
 
 **Verified Dialectical Kernel (VDK) - Temperature Robustness Analysis**
+
+# [Regenerative Development AI: A Constitutional Framework for Community Sovereignty](https://github.com/CarlosArleo/regenerative-development-ai)
+
+###### Complete Project Vision & Theoretical Foundations
+
+Where Regenerative Frameworks Meet Constitutional AI: A Research Project in Epistemic Innovation
 
 ### Key Experiments
 
