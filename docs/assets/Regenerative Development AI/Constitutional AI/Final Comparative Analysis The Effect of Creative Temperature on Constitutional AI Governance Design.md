@@ -124,7 +124,7 @@ This table compares the frequency of core constitutional principles across both 
 5. **Evidence for/against probabilistic divergence hypothesis:**
    The results provide **strong evidence for the probabilistic divergence hypothesis.** In both conditions, the VDK did not produce a single deterministic output. Instead, it generated a predictable *range* of structurally distinct solutions (the families). The fact that temperature altered the frequency of these families but not the set of families itself reinforces the idea that the VDK explores a stable landscape of solutions, with the constitution defining the landscape and temperature influencing the path taken through it.
 
-### 5. Scientific Abstract (298 words)
+### 5. Scientific Abstract
 
 **Context:** Constitutional AI presents a novel paradigm for aligning advanced AI systems by constraining their behavior with explicit, principle-based rules. This study investigates the robustness of this approach in a complex, real-world governance design task for a bioregion in the Colombian Pacific.
 
